@@ -1,0 +1,30 @@
+{
+  "homepage": "https://minecraft.curseforge.com/projects/craftpresence/files",
+  "promos": {
+    "1.12.2-latest": "v1.4.0",
+    "1.12.2-recommended": "v1.4.0",
+    "1.11.2-latest": "v1.4.0",
+    "1.11.2-recommended": "v1.4.0",
+    "1.10.2-latest": "v1.4.0",
+    "1.10.2-recommended": "v1.4.0",
+    "1.9.4-latest": "v1.4.0",
+    "1.9.4-recommended": "v1.4.0",
+    "1.8.9-latest": "v1.4.0",
+    "1.8.9-recommended": "v1.4.0"
+  },
+  "1.12.2": {
+    "11.14.3.1543": "fry: Fix color multiplier applied incorrectly for items.\nfry: OBJ loader: fixed another whitespace-related issue; removed unused 'modifyUVs' property for now; added the 'flip-v' property to switch between OpenGL-style and DirextX-style model UVs; fixed normals - they are now correct in-world, still a bit strange for the items; fixed normals a little bit for B3D models too."
+  },
+  "1.11.2": {
+    "11.14.3.1543": "fry: Fix color multiplier applied incorrectly for items.\nfry: OBJ loader: fixed another whitespace-related issue; removed unused 'modifyUVs' property for now; added the 'flip-v' property to switch between OpenGL-style and DirextX-style model UVs; fixed normals - they are now correct in-world, still a bit strange for the items; fixed normals a little bit for B3D models too."
+  },
+  "1.10.2": {
+    "11.14.3.1543": "fry: Fix color multiplier applied incorrectly for items.\nfry: OBJ loader: fixed another whitespace-related issue; removed unused 'modifyUVs' property for now; added the 'flip-v' property to switch between OpenGL-style and DirextX-style model UVs; fixed normals - they are now correct in-world, still a bit strange for the items; fixed normals a little bit for B3D models too."
+  },
+  "1.9.4": {
+    "11.14.3.1543": "fry: Fix color multiplier applied incorrectly for items.\nfry: OBJ loader: fixed another whitespace-related issue; removed unused 'modifyUVs' property for now; added the 'flip-v' property to switch between OpenGL-style and DirextX-style model UVs; fixed normals - they are now correct in-world, still a bit strange for the items; fixed normals a little bit for B3D models too."
+  },
+  "1.8.9": {
+    "11.14.3.1543": "fry: Fix color multiplier applied incorrectly for items.\nfry: OBJ loader: fixed another whitespace-related issue; removed unused 'modifyUVs' property for now; added the 'flip-v' property to switch between OpenGL-style and DirextX-style model UVs; fixed normals - they are now correct in-world, still a bit strange for the items; fixed normals a little bit for B3D models too."
+  }
+}

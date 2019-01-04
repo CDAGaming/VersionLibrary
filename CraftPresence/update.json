@@ -1,18 +1,19 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/craftpresence/files",
   "promos": {
-    "1.12.2-latest": "v1.4.9.8",
-    "1.12.2-recommended": "v1.4.9.8",
-    "1.11.2-latest": "v1.4.9.8",
-    "1.11.2-recommended": "v1.4.9.8",
-    "1.10.2-latest": "v1.4.9.8",
-    "1.10.2-recommended": "v1.4.9.8",
-    "1.9.4-latest": "v1.4.9.8",
-    "1.9.4-recommended": "v1.4.9.8",
-    "1.8.9-latest": "v1.4.9.8",
-    "1.8.9-recommended": "v1.4.9.8"
+    "1.12.2-latest": "v1.4.9.9",
+    "1.12.2-recommended": "v1.4.9.9",
+    "1.11.2-latest": "v1.4.9.9",
+    "1.11.2-recommended": "v1.4.9.9",
+    "1.10.2-latest": "v1.4.9.9",
+    "1.10.2-recommended": "v1.4.9.9",
+    "1.9.4-latest": "v1.4.9.9",
+    "1.9.4-recommended": "v1.4.9.9",
+    "1.8.9-latest": "v1.4.9.9",
+    "1.8.9-recommended": "v1.4.9.9"
   },
   "1.12.2": {
+    "v1.4.9.9": "Patch Security Vulnerability in Downloads and Minor Stability fixes for v1.4.x Users",
     "v1.4.9.8": "Minor Bug and Stability Fixes for v1.4.x Users",
     "v1.4.9.5": "Major Bug-Fixes for v1.4.x Users",
     "v1.4.9": "Includes Bug Fixes and Join Requests and LAN Support",
@@ -22,6 +23,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.11.2": {
+    "v1.4.9.9": "Patch Security Vulnerability in Downloads and Minor Stability fixes for v1.4.x Users",
     "v1.4.9.8": "Minor Bug and Stability Fixes for v1.4.x Users",
     "v1.4.9.5": "Major Bug-Fixes for v1.4.x Users",
     "v1.4.9": "Includes Bug Fixes and Join Requests and LAN Support",
@@ -31,6 +33,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.10.2": {
+    "v1.4.9.9": "Patch Security Vulnerability in Downloads and Minor Stability fixes for v1.4.x Users",
     "v1.4.9.8": "Minor Bug and Stability Fixes for v1.4.x Users",
     "v1.4.9.5": "Major Bug-Fixes for v1.4.x Users",
     "v1.4.9": "Includes Bug Fixes and Join Requests and LAN Support",
@@ -40,6 +43,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.9.4": {
+    "v1.4.9.9": "Patch Security Vulnerability in Downloads and Minor Stability fixes for v1.4.x Users",
     "v1.4.9.8": "Minor Bug and Stability Fixes for v1.4.x Users",
     "v1.4.9.5": "Major Bug-Fixes for v1.4.x Users",
     "v1.4.9": "Includes Bug Fixes and Join Requests and LAN Support",
@@ -49,6 +53,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.8.9": {
+    "v1.4.9.9": "Patch Security Vulnerability in Downloads and Minor Stability fixes for v1.4.x Users",
     "v1.4.9.8": "Minor Bug and Stability Fixes for v1.4.x Users",
     "v1.4.9.5": "Major Bug-Fixes for v1.4.x Users",
     "v1.4.9": "Includes Bug Fixes and Join Requests and LAN Support",

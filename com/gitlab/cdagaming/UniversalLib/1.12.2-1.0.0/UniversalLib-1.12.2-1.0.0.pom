@@ -4,7 +4,7 @@
 
     <groupId>com.gitlab.cdagaming</groupId>
     <artifactId>UniversalLib</artifactId>
-    <version>1.0.0</version>
+    <version>1.12.2-1.0.0</version>
     <packaging>jar</packaging>
     <dependencies>
 

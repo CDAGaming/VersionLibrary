@@ -1,0 +1,9 @@
+{
+    "moddinglegacy": {
+        "name": "Modding Legacy",
+        "description": "Test String",
+        "ip": "moddinglegacy.com",
+        "mods": "",
+        "isSponsored": true
+    }
+}

@@ -1,60 +1,60 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/the-aether-ii/files",
   "promos": {
-    "1.15.2-latest": "v1.0.0",
-    "1.15.2-recommended": "v1.0.0",
-    "1.15.1-latest": "v1.0.0",
-    "1.15.1-recommended": "v1.0.0",
-    "1.14.4-latest": "v1.0.0",
-    "1.14.4-recommended": "v1.0.0",
-    "1.13.2-latest": "v1.0.0",
-    "1.13.2-recommended": "v1.0.0",
-    "1.12.2-latest": "v1.0.0",
-    "1.12.2-recommended": "v1.0.0",
-    "1.11.2-latest": "v1.0.0",
-    "1.11.2-recommended": "v1.0.0",
-    "1.10.2-latest": "v1.0.0",
-    "1.10.2-recommended": "v1.0.0",
-    "1.9.4-latest": "v1.0.0",
-    "1.9.4-recommended": "v1.0.0",
-    "1.8.9-latest": "v1.0.0",
-    "1.8.9-recommended": "v1.0.0",
-    "1.7.10-latest": "v1.0.0",
-    "1.7.10-recommended": "v1.0.0",
-    "1.6.4-latest": "v1.0.0",
-    "1.6.4-recommended": "v1.0.0"
+    "1.15.2-latest": "1.0.0",
+    "1.15.2-recommended": "1.0.0",
+    "1.15.1-latest": "1.0.0",
+    "1.15.1-recommended": "1.0.0",
+    "1.14.4-latest": "1.0.0",
+    "1.14.4-recommended": "1.0.0",
+    "1.13.2-latest": "1.0.0",
+    "1.13.2-recommended": "1.0.0",
+    "1.12.2-latest": "1.0.0",
+    "1.12.2-recommended": "1.0.0",
+    "1.11.2-latest": "1.0.0",
+    "1.11.2-recommended": "1.0.0",
+    "1.10.2-latest": "1.0.0",
+    "1.10.2-recommended": "1.0.0",
+    "1.9.4-latest": "1.0.0",
+    "1.9.4-recommended": "1.0.0",
+    "1.8.9-latest": "1.0.0",
+    "1.8.9-recommended": "1.0.0",
+    "1.7.10-latest": "1.0.0",
+    "1.7.10-recommended": "1.0.0",
+    "1.6.4-latest": "1.0.0",
+    "1.6.4-recommended": "1.0.0"
   },
   "1.15.2": {
-    "v1.0.0": "Initial Release"
+    "1.0.0": "Initial Release"
   },
   "1.15.1": {
-    "v1.0.0": "Initial Release"
+    "1.0.0": "Initial Release"
   },
   "1.14.4": {
-    "v1.0.0": "Initial Release"
+    "1.0.0": "Initial Release"
   },
   "1.13.2": {
-    "v1.0.0": "Initial Release"
+    "1.0.0": "Initial Release"
   },
   "1.12.2": {
-    "v1.0.0": "Initial Release"
+    "1.0.0": "Initial Release"
   },
   "1.11.2": {
-    "v1.0.0": "Initial Release"
+    "1.0.0": "Initial Release"
   },
   "1.10.2": {
-    "v1.0.0": "Initial Release"
+    "1.0.0": "Initial Release"
   },
   "1.9.4": {
-    "v1.0.0": "Initial Release"
+    "1.0.0": "Initial Release"
   },
   "1.8.9": {
-    "v1.0.0": "Initial Release"
+    "1.0.0": "Initial Release"
   },
   "1.7.10": {
-    "v1.0.0": "Initial Release"
+    "1.0.0": "Initial Release"
   },
   "1.6.4": {
-    "v1.0.0": "Initial Release"
+    "1.0.0": "Initial Release"
   }
 }

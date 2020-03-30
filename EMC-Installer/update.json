@@ -1,0 +1,16 @@
+{
+    "download": "https://gitlab.com/Aristois/Installer/builds/artifacts/alt-master/browse/build/libs?job=build",
+    "downloadDonor": "https://gitlab.com/Aristois/Installer/builds/artifacts/alt-master/browse/build/libs?job=build",
+    "promos": {
+      "latest": "1.9.5.7",
+      "recommended": "1.9.5.7"
+    },
+    "1.9.5.7": "- Fixes an Incompatibility in some cases with MultiMC ModPack directories\n- Fixed a Grammar issue in the wording of the Auto-Update non-support message\n- Fixed cases of an *Extra Button* appearing when it shouldn't",
+    "1.9.5.6": "- Made an Exception in genConfigs log fancy-style\n- Added a Download button to the update checker\n- Fixed isLinux check to correspond to most, if not all Unix Platforms that are not a mac",
+    "1.9.5.5": "- Added a Warning that Auto Updating on Official ModLoaders does not work\n- Block Aristois Loader Installing on Official ModLoader Setups when EMC couldn't auto-update",
+    "1.9.5.3": "- Fixed a Critical bug with some files installing to the wrong places",
+    "1.9.5.2": "- Fixed MC Version Sorting to depend on Protocol. Snapshots and Experimental Versions will now order fine\n- Fixed Updater Version Check inconsistency",
+    "1.9.5": "- Added gen Argument (Use --gen true in Options or CMD)\n- Bug Fixes for 0 kb Jar Data\n- Updated Dependencies",
+    "1.9.2.1": "- Fixed Donor Installs",
+    "1.9.2": "- Added Update Checker\n- Staility Fixes\n- Some v1 Versions deprecated"
+}

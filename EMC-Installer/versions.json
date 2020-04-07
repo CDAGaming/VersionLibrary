@@ -21,7 +21,6 @@
   },
   "1.15.2": {
     "version": "13.9.6-1.15.2",
-    "latestVersion": "latest-1.15.2",
     "inheritsFrom": "1.15.2",
     "clientVersion": "285",
     "latestClientVersion": "latest",

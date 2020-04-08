@@ -6,7 +6,7 @@
       "recommended": "1.9.6"
     },
     "1.9.6": "- Added Forge 1.15.2+ Support\n- Added Beta Channel Support for future feature testing",
-    "1.9.5.8": "- excludeAutoUpdate function extended towards EMC and Aristois options\n- Installer will now properly by default target the latest maven dependencies, if available\n- Fixed a Race Case Issue with the Loader not attaching to maven if in a no-modloader setup\n- Fixed Client references in code\n- Fixed a possible issue with date formatting\n\nLast Amended: 2020-04-03 @ 10:38 CST",
+    "1.9.5.8": "- excludeAutoUpdate function extended towards EMC and Aristois options\n- Installer will now properly by default target the latest maven dependencies, if available\n- Fixed a Race Case Issue with the Loader not attaching to maven if in a no-modloader setup\n- Fixed Client references in code\n- Fixed a possible issue with date formatting\n\nLast Amended: 2020-04-08 @ 10:05 AM CST",
     "1.9.5.7": "- Fixes an Incompatibility in some cases with MultiMC ModPack directories\n- Fixed a Grammar issue in the wording of the Auto-Update non-support message\n- Fixed cases of an *Extra Button* appearing when it shouldn't",
     "1.9.5.6": "- Made an Exception in genConfigs log fancy-style\n- Added a Download button to the update checker\n- Fixed isLinux check to correspond to most, if not all Unix Platforms that are not a mac",
     "1.9.5.5": "- Added a Warning that Auto Updating on Official ModLoaders does not work\n- Block Aristois Loader Installing on Official ModLoader Setups when EMC couldn't auto-update",

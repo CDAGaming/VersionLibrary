@@ -1,14 +1,14 @@
 {
-  "20w14a": {
-    "version": "13.9.6-20w14a",
-    "inheritsFrom": "20w14a",
+  "20w15a": {
+    "version": "13.9.6-20w15a",
+    "inheritsFrom": "20w15a",
     "clientInherit": "1.15.2",
     "clientVersion": "285",
-    "protocolVersion": "710",
+    "protocolVersion": "711",
     "dependencyTag": "-v2",
     "tweaker": "",
     "subsystem": "0.7.2",
-    "mappings": "20w14a+build.1",
+    "mappings": "20w15a+build.1",
     "mainClass": "me.deftware.client.framework.main.Main",
     "extraLibs": {},
     "launchers": [

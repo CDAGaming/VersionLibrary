@@ -1,24 +1,4 @@
 {
-  "20w19a": {
-    "version": "13.9.6-20w19a",
-    "inheritsFrom": "20w19a",
-    "clientInherit": "1.15.2",
-    "clientVersion": "293",
-    "protocolVersion": "715",
-    "dependencyTag": "-v2",
-    "tweaker": "",
-    "subsystem": "0.7.2",
-    "mappings": "20w19a+build.1",
-    "mainClass": "me.deftware.client.framework.main.Main",
-    "extraLibs": {},
-    "launchers": [
-      "Vanilla",
-      "MultiMC"
-    ],
-    "modloaders": [
-      "Fabric"
-    ]
-  },
   "1.15.2": {
     "version": "13.9.6-1.15.2",
     "inheritsFrom": "1.15.2",

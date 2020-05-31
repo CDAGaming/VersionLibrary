@@ -1,0 +1,54 @@
+Server Dependencies:
+
+Latest -> This usually means the latest release (If appended with CI, use link povided for the lastSuccessfulBuild; only use if tested for Quality Assurance) - latest beta may be used here if stable is unavailable or explicitly mentioned
+Stable -> This usually means the last release to be marked as Stable (Priority to Recommended)
+Legacy -> Usually signals this mod hasn't received an update in awhile and might be LTS
+LTS -> Signals that the mod is confirmed no longer being developed for this version, and will likely not need any further updates to it unless critical issues occur
+Custom -> This Plugin is a Forked/Modified Revision, has additional instructions to maintain
+
+* Forge -> 14.23.5.2854 (Recommended - Named as server.jar)
+* SpongeForge 2838-7.2.1 (Stable)
+* Minecraft 1.12.2
+
+* Mods
+  * Aether Legacy v1.4.4 (Stable)
+  * Aether II 1.12.2-0.3.0+buld413 (Latest CI -> https://jenkins.gildedgames.com/job/The-Aether-II/job/1.12.2/413/)
+  * Hats v7.1.1 (Latest - Asthethics)
+    * IChunUtil v7.2.2 (Stable)
+  * MorePlayerModels 05Dec19 (Legacy - Asthetics)
+  * TwilightForest 3.10.1013 (Legacy)
+  * GalacticraftCore 4.0.2.280 (Stable; Bundle-Galacticraft)
+  * GalacticraftPlanets 4.0.2.280 (Stable; Bundle-Galacticraft)
+  * MicdoodleCore 4.0.2.280 (Stable; Bundle-Galacticraft)
+  * Botania v1.10-363 (Legacy)
+    * Baubles v1.5.2 (LTS)
+  * BuildCraft 7.99.24.6 (Latest)
+  * Tinker's Construct 2.13.0.183 (Stable)
+    * Tinkers Aether Addon v1.3.0 (Stable)
+    * Mantle v1.3.3.55 (Stable)
+  * Tetra 0.39.1 (Legacy)
+  * SimpleOres 1.11.2.2 (LTS)
+    * SimpleCore v1.7.3.4 (LTS)
+  * ProjectE v1.4.1 (Legacy)
+    * Expanded Equivalence 13r (Legacy) - ERROR with Mixins
+      * HammerLib v2.0.6.17 (Stable) - ERROR with Mixins
+  * Atum 2 v2.0.17 (Stable) - ERROR FileNotFound in Testing
+  * The Betweenlands v3.6.1 (Latest) - REMOVED due to Cascading World Lag
+  * Pam's HarvestCraft v1.12.2zg (Stable)
+  * UniDict v2.9.6 (Stable)
+    * WanionLib v2.4 (Stable)
+  * Chisel v1.0.2.45 (Stable)
+    * ConnectedTexturesMod v1.0.2.31 (Stable)
+  * Chisels and Bits v14.33 (Stable)
+  * Future Versions 1.3 Public Beta 3 (Latest Beta)
+  * Gravestone Mod v1.10.3 (Legacy)
+  
+* Plugins
+  * Nucleus 1.14.4-S7.1 (Stable)
+  * CatClearLag v0.9.5.1 (Stable)
+  * FAWE sponge112-19.11.13-5505943-1282-22.3.5 (LTS)
+  * LuckPerms 5.1.3.2 (Stable)
+  * UltimateChat v1.9.0-b253 (Latest CI -> Github)
+  * FTBUtilities 5.4.0.124 (Stable)
+  * FTBLib 5.4.7.0 (Stable)
+  * Prism v3 (Custom)

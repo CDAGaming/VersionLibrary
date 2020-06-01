@@ -17,7 +17,8 @@
     ],
     "modloaders": [
       "Fabric"
-    ]
+    ],
+    "notice": "This version is classified as a SNAPSHOT,\n meaning there can be unforseen issues or instability.\nPlease report these issues as they are found."
   },
   "1.15.2": {
     "version": "13.9.6-1.15.2",

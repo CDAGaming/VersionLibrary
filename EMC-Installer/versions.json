@@ -1,14 +1,14 @@
 {
-  "20w21a": {
-    "version": "13.9.6-20w21a",
-    "inheritsFrom": "20w21a",
+  "1.16-pre2": {
+    "version": "13.9.6-1.16-pre2",
+    "inheritsFrom": "1.16-pre2",
     "clientInherit": "1.15.2",
     "clientVersion": "299",
-    "protocolVersion": "718",
+    "protocolVersion": "722",
     "dependencyTag": "-v2",
     "tweaker": "",
     "subsystem": "0.8.5",
-    "mappings": "20w21a+build.10",
+    "mappings": "1.16-pre2+build.1",
     "mainClass": "me.deftware.client.framework.main.Main",
     "extraLibs": {},
     "launchers": [
@@ -18,7 +18,7 @@
     "modloaders": [
       "Fabric"
     ],
-    "notice": "This version is classified as a SNAPSHOT,\n meaning there can be unforseen issues or instability.\nPlease report these issues as they are found."
+    "notice": "This version is classified as a PRERELEASE,\n meaning there can be unforseen issues or instability.\nPlease report these issues as they are found."
   },
   "1.15.2": {
     "version": "13.9.6-1.15.2",

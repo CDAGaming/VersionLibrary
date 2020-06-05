@@ -1,6 +1,6 @@
 {
-    "download": "https://gitlab.com/Aristois/Installer/builds/artifacts/alt-beta/browse/build/libs?job=build",
-    "downloadDonor": "https://gitlab.com/Aristois/Installer/builds/artifacts/alt-beta/browse/build/libs?job=build",
+    "download": "https://gitlab.com/Aristois/Installer/builds/artifacts/alt-beta/browse/packager?job=build",
+    "downloadDonor": "https://gitlab.com/Aristois/Installer/builds/artifacts/alt-beta/browse/packager?job=build",
     "promos": {
       "latest": "1.9.7",
       "recommended": "1.9.7"

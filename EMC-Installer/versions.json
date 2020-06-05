@@ -6,7 +6,7 @@
     "clientVersion": "299",
     "protocolVersion": "722",
     "dependencyTag": "-v2",
-    "identifier": "snapshot",
+    "identifier": "snapshot/1.16 Pre-release 2",
     "tweaker": "",
     "subsystem": "0.8.5",
     "mappings": "1.16-pre2+build.1",

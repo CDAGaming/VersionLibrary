@@ -91,7 +91,7 @@
     "clientVersion": "299",
     "protocolVersion": "601",
     "dependencyTag": "-v2",
-    "identifier": "snapshot",
+    "identifier": "snapshot/1_15_combat-6",
     "tweaker": "",
     "subsystem": "0.7.1",
     "mappings": "1.15_combat-6+build.1",

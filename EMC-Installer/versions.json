@@ -1,15 +1,15 @@
 {
-  "1.16-pre2": {
-    "version": "13.9.6-1.16-pre2",
-    "inheritsFrom": "1.16-pre2",
+  "1.16-pre3": {
+    "version": "13.9.6-1.16-pre3",
+    "inheritsFrom": "1.16-pre3",
     "clientInherit": "1.15.2",
     "clientVersion": "299",
-    "protocolVersion": "722",
+    "protocolVersion": "725",
     "dependencyTag": "-v2",
-    "identifier": "snapshot/1.16 Pre-release 2",
+    "identifier": "snapshot/1.16 Pre-release 3",
     "tweaker": "",
     "subsystem": "0.8.5",
-    "mappings": "1.16-pre2+build.1",
+    "mappings": "1.16-pre3+build.1",
     "mainClass": "me.deftware.client.framework.main.Main",
     "extraLibs": {},
     "launchers": [
@@ -104,7 +104,7 @@
     "modloaders": [
       "Fabric"
     ],
-    "notice": "This version is classified as a EXPERIMENT,\n meaning there can be major issues or instability.\nPlease report these issues as they are found.\n\nWarning: Do not attempt to use with Non-Modloader Settings!"
+    "notice": "This version is classified as an EXPERIMENT,\n meaning there can be major issues or instability.\nPlease report these issues as they are found.\n\nWarning: Do not attempt to use with Non-Modloader Settings!"
   },
   "1.14.4": {
     "version": "13.9.6-1.14.4",

@@ -2,9 +2,10 @@
     "download": "https://gitlab.com/Aristois/Installer/builds/artifacts/alt-beta/browse/packager?job=build",
     "downloadDonor": "https://gitlab.com/Aristois/Installer/builds/artifacts/alt-beta/browse/packager?job=build",
     "promos": {
-      "latest": "1.9.8",
-      "recommended": "1.9.8"
+      "latest": "1.9.9",
+      "recommended": "1.9.9"
     },
+    "1.9.9": "- Updated commons-io to 2.7\n - Java 8 now required to run Installer\n- Fix a Race Case Bug where Aristois was able to update while EMC was not, causing crashes for those who didn't know\n- Removed TODOs in some areas\n - removeOldAristoisEntries using lamdas now with Text Edits done to messages\n- Added back extraLibs support, unused for now",
     "1.9.8": "- Added an Identifier field to specify release type and display names on versions to fix Pre-Release and Experimental Version\n- Fixed Marketplace Addon Integration to properly download addons again to the proper locations\n- Marketplace Addons, if failed to download, will now display their source urls, like the queue message\n- [Backend] Fixed Download Urls and Sync Version metadata",
     "1.9.7": "- Added a Confirm Selection screen to confirm install\n- Fixed Donor Installs yet again\n- Added Notice field to Metadata for more information",
     "1.9.6": "- Added Forge 1.15.2+ Support\n- Added Beta Channel Support for future feature testing",

@@ -2,9 +2,10 @@
     "download": "https://gitlab.com/Aristois/Installer/builds/artifacts/alt-beta/browse/packager?job=build",
     "downloadDonor": "https://gitlab.com/Aristois/Installer/builds/artifacts/alt-beta/browse/packager?job=build",
     "promos": {
-      "latest": "1.9.9",
-      "recommended": "1.9.9"
+      "latest": "1.10.0",
+      "recommended": "1.10.0"
     },
+    "1.10.0": "- The Marketplace Module Selector has received a facelift at long last:\n  * Fabric/Forge/Rift/Snapshot Addons, depending on settings, will now properly install to your normal mods folder\n  * Due to a funky race case issue, Selecting Forge blocked off Addon Installs. This has now been fixed.\n  * There have been time anomolies where two marketplace jars can occupy the same space. This has been remedied\n  * Multiple Logging Areas within Bundle Data Installations have been adjusted to show the filename they save as to prevent user confusion\n  * Added a --excludeJsonAdjustment Flag to only update Addons. Be warned, as this can cause issues and is only made for advanced users\n- Added a Return Home button to the Ending Installer Screen, allowing the user to return back without rebooting the application\n- Fixed some Logging looking weird\n- Major Cleanup Operations and Lambda Conversion Additions",
     "1.9.9": "- Updated commons-io to 2.7\n - Java 8 now required to run Installer\n- Fix a Race Case Bug where Aristois was able to update while EMC was not, causing crashes for those who didn't know\n- Removed TODOs in some areas\n - removeOldAristoisEntries using lamdas now with Text Edits done to messages\n- Added back extraLibs support, unused for now",
     "1.9.8": "- Added an Identifier field to specify release type and display names on versions to fix Pre-Release and Experimental Version\n- Fixed Marketplace Addon Integration to properly download addons again to the proper locations\n- Marketplace Addons, if failed to download, will now display their source urls, like the queue message\n- [Backend] Fixed Download Urls and Sync Version metadata",
     "1.9.7": "- Added a Confirm Selection screen to confirm install\n- Fixed Donor Installs yet again\n- Added Notice field to Metadata for more information",

@@ -1,15 +1,15 @@
 {
-  "1.16-pre5": {
-    "version": "13.9.6-1.16-pre5",
-    "inheritsFrom": "1.16-pre5",
+  "1.16-pre6": {
+    "version": "13.9.6-1.16-pre6",
+    "inheritsFrom": "1.16-pre6",
     "clientInherit": "1.15.2",
     "clientVersion": "299",
-    "protocolVersion": "729",
+    "protocolVersion": "730",
     "dependencyTag": "-v2",
-    "identifier": "snapshot/1.16 Pre-release 5",
+    "identifier": "snapshot/1.16 Pre-release 6",
     "tweaker": "",
     "subsystem": "0.8.5",
-    "mappings": "1.16-pre5+build.1",
+    "mappings": "1.16-pre6+build.3",
     "mainClass": "me.deftware.client.framework.main.Main",
     "extraLibs": {},
     "launchers": [

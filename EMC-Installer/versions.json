@@ -1,15 +1,15 @@
 {
-  "1.16-pre8": {
-    "version": "13.9.6-1.16-pre8",
-    "inheritsFrom": "1.16-pre8",
+  "1.16-rc1": {
+    "version": "13.9.6-1.16-rc1",
+    "inheritsFrom": "1.16-rc1",
     "clientInherit": "1.15.2",
     "clientVersion": "299",
-    "protocolVersion": "733",
+    "protocolVersion": "734",
     "dependencyTag": "-v2",
-    "identifier": "snapshot/1.16 Pre-release 8",
+    "identifier": "rc/1.16 Release Candidate 1",
     "tweaker": "",
     "subsystem": "0.8.5",
-    "mappings": "1.16-pre8+build.1",
+    "mappings": "1.16-rc1+build.2",
     "mainClass": "me.deftware.client.framework.main.Main",
     "extraLibs": {},
     "launchers": [
@@ -19,7 +19,7 @@
     "modloaders": [
       "Fabric"
     ],
-    "notice": "This version is classified as a PRERELEASE,\n meaning there can be unforseen issues or instability.\nPlease report these issues as they are found."
+    "notice": "This version is classified as a 'Release Candidate',\n meaning that while this is a version close to release, unforseen issues can still occur albeit less common.\nNevertheless, Please report these issues as they are found."
   },
   "1.15.2": {
     "version": "13.9.6-1.15.2",

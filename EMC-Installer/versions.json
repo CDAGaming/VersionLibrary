@@ -1,6 +1,7 @@
 {
   "1.16.1": {
     "version": "14.0.0-1.16.1",
+    "latestVersion": "latest-1.16.1",
     "inheritsFrom": "1.16.1",
     "clientVersion": "301",
     "latestClientVersion": "latest",
@@ -21,6 +22,7 @@
   },
   "1.16": {
     "version": "14.0.0-1.16",
+    "latestVersion": "latest-1.16",
     "inheritsFrom": "1.16",
     "clientVersion": "301",
     "latestClientVersion": "latest",
@@ -41,6 +43,7 @@
   },
   "1.15.2": {
     "version": "14.0.0-1.15.2",
+    "latestVersion": "latest-1.15.2",
     "inheritsFrom": "1.15.2",
     "clientVersion": "301",
     "latestClientVersion": "latest",

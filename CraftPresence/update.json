@@ -1,6 +1,8 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/craftpresence/files",
   "promos": {
+    "1.16.2-latest": "v1.6.8",
+    "1.16.2-recommended": "v1.6.8",
     "1.16.1-latest": "v1.6.8",
     "1.16.1-recommended": "v1.6.8",
     "1.15.2-latest": "v1.6.8",
@@ -33,6 +35,27 @@
     "1.2.5-recommended": "v1.6.1",
     "1.1.0-latest": "v1.6.1",
     "1.1.0-recommended": "v1.6.1"
+  },
+  "1.16.2": {
+    "v1.6.8": "Hotfix patches and Improvements for v1.6.6 Users, also making final preparations for the v1.7.0 Update and the final LTS Update for the v1.6.x Pipeline",
+    "v1.6.6": "Quality-Of-Life and Bug Fix LTS Upgrade for v1.6.x Users, designed to fix long-standing issues and make preparations towards the v1.7.0 Milestone Update for 5 Million Downloads",
+    "v1.6.5": "Major Quality-Of-Life and Feature Update for v1.6.x Users, including New Options across the board as well as multiple rewrites on front and backend systems",
+    "v1.6.1": "Quality-Of-Life and Bug Fix Patch for v1.6.x Users",
+    "v1.6.0": "Major Feature Update improving several aspects of the Mod as well as major bug fixes",
+    "v1.5.6": "Minor Bug-Fix and Quality-Of-Life Patch for v1.5.5 Users, with 1.15 Support",
+    "v1.5.5": "Feature Update for v1.5.x Users, including 1.14.x Support, and many new Config Options and Bug Fixes",
+    "v1.5.3.1": "HotFixes for v1.5.3, also including a new Accessibilities GUI to customize Tooltip Colors and soon set Fallback Values",
+    "v1.5.3": "Bug-Fix and Quality of Life Update for v1.4.x and v1.5.x Users, including Performance Improvements and Better Legacy Compatibility",
+    "v1.5.2": "Major Bug-Fix Update for v1.5.x Users, also Including Java 1.6 Support, Better Compatibility between Versions, and Refactored Dimension and Per-GUI Systems",
+    "v1.5.0": "This major update includes Forge 1.13.2 Support, MCUpdater Support, Redesigned Commands, and fixes for several issues in v1.4.x",
+    "v1.4.9.9": "Patch Security Vulnerability in Downloads and Minor Stability fixes for v1.4.x Users",
+    "v1.4.9.8": "Minor Bug and Stability Fixes for v1.4.x Users",
+    "v1.4.9.5": "Major Bug-Fixes for v1.4.x Users",
+    "v1.4.9": "Includes Bug Fixes and Join Requests and LAN Support",
+    "v1.4.8": "Major Bug-Fix and Feature Update for v1.4.x Users",
+    "v1.4.5": "Recommended Update for Users on v1.4.2; Resolve Crashes and Completes Config GUI",
+    "v1.4.2": "Recommended Update for Users on v1.4.0, with Major Fixes and Improvements to the Config System",
+    "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.16.1": {
     "v1.6.8": "Hotfix patches and Improvements for v1.6.6 Users, also making final preparations for the v1.7.0 Update and the final LTS Update for the v1.6.x Pipeline",

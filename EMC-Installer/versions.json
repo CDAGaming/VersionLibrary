@@ -1,15 +1,15 @@
 {
   "1.16.2": {
-    "version": "15.0.0-1.16.2",
-    "latestVersion": "latest-1.16.2",
+    "version": "16.0.0-1.16.2",
+    "latestVersion": "16.0.0-1.16.2",
     "inheritsFrom": "1.16.2",
-    "clientVersion": "311",
+    "clientVersion": "313",
     "latestClientVersion": "latest",
     "protocolVersion": "751",
     "dependencyTag": "-v2",
     "tweaker": "",
     "subsystem": "0.8.5",
-    "mappings": "1.16.2+build.1",
+    "mappings": "1.16.2+build.21",
     "mainClass": "me.deftware.client.framework.main.Main",
     "extraLibs": {},
     "launchers": [

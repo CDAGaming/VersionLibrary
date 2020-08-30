@@ -1,10 +1,11 @@
 {
-    "download": "https://gitlab.com/Aristois/Installer/builds/artifacts/alt-beta/browse/packager?job=build",
-    "downloadDonor": "https://gitlab.com/Aristois/Installer/builds/artifacts/alt-beta/browse/packager?job=build",
+    "download": "https://gitlab.com/Aristois/Installer/builds/artifacts/v16-beta/browse/packager?job=build",
+    "downloadDonor": "https://gitlab.com/Aristois/Installer/builds/artifacts/v16-beta/browse/packager?job=build",
     "promos": {
-      "latest": "1.10.6.1",
-      "recommended": "1.10.6.1"
+      "latest": "1.10.7",
+      "recommended": "1.10.7"
     },
+    "1.10.7": "- Supports Beta/Alpha Builds of some products\n- Dependency Updates",
     "1.10.6.1": "- Updated Dependencies and Versioning Meta\n- Added the Client and EMC Version to the Confirmation screen for additional debugging",
     "1.10.6": "- Upgraded Dependencies and Versioning Metadata",
     "1.10.5": "- Change: Beta Transitioning should now work perfectly\n- Change: Documentation has been fully added to the Installer\n- Change: ThemePalette Rewritten to be more dynamic again, and allow the construction of custom themes\n- Fix: ModLoader Exclusive Addons will now download to the proper directory\n- Fix: Fixed NPE with Argument Text box\n- Fix: Fixed unintentional reboots when swapping Release Channels\n- Change: Logging Engine upgraded to Log4j\n- Change: The UI has been rewritten to allow for better simplicity and ease of access\n- Change: Multiple Backend Upgrades with a splash of some easter eggs\n- Change: Implemented conflict and Maintenance Mode Variables to ModuleElements\n- Backend: Updated Fabric Loader to 0.8.9 and Gradle to 6.5.1",

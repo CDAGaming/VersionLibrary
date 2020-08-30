@@ -19,7 +19,7 @@
     "modloaders": [
       "Fabric"
     ],
-    "notice": "This version is ascociated with the Aristois Beta Initiative!\nThis update has been a major upbringing for everyone who's worked on it\n\nWhile this update has been throughly tested for this release,\nPlease report any and all issues or suggestions to our Trellos on discord!\n\nDiscord -> https://aristois.net/discord"
+    "notice": "This version is associated with the Aristois Beta Initiative!\nThis update has been a major upbringing for everyone who's worked on it\n\nWhile this update has been thoroughly tested for this release,\nPlease report any and all issues or suggestions to our Trellos on discord!\n\nDiscord -> https://aristois.net/discord"
   },
   "1.16.1": {
     "version": "15.0.0-1.16.1",

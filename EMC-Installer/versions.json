@@ -9,7 +9,7 @@
     "dependencyTag": "-v2",
     "tweaker": "",
     "subsystem": "0.8.5",
-    "mappings": "1.16.2+build.21",
+    "mappings": "1.16.2+build.43",
     "mainClass": "me.deftware.client.framework.main.Main",
     "extraLibs": {},
     "launchers": [

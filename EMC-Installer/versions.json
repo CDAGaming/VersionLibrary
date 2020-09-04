@@ -100,39 +100,17 @@
     ],
     "notice": "This version is associated with the Aristois Beta Initiative!\nThis update has been a major upbringing for everyone who's worked on it\n\nWhile this update has been thoroughly tested for this release,\nPlease report any and all issues or suggestions to our Trellos on discord!\n\nDiscord -> https://aristois.net/discord"
   },
-  "1_15_combat-6": {
-    "version": "15.0.0-1_15_combat-6",
-    "inheritsFrom": "1_15_combat-6",
-    "clientInherit": "1.15.1",
-    "clientVersion": "311",
-    "protocolVersion": "601",
-    "dependencyTag": "-v2",
-    "identifier": "snapshot/Combat Test 5",
-    "tweaker": "",
-    "subsystem": "0.8.5",
-    "mappings": "1_15_combat-6+build.1",
-    "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
-    "extraLibs": {},
-    "launchers": [
-      "Vanilla",
-      "MultiMC"
-    ],
-    "modloaders": [
-      "Fabric"
-    ],
-    "notice": "This version is classified as an EXPERIMENT,\n meaning there can be major issues or instability.\nPlease report these issues as they are found.\n\nWarning: Do not attempt to use with Non-Modloader Settings!"
-  },
   "1.15.1": {
-    "version": "15.0.0-1.15.1",
-    "latestVersion": "latest-1.15.1",
+    "version": "16.0.0-1.15.1",
+    "latestVersion": "16.0.0-1.15.1",
     "inheritsFrom": "1.15.1",
-    "clientVersion": "311",
+    "clientVersion": "313",
     "latestClientVersion": "latest",
     "protocolVersion": "575",
     "dependencyTag": "-v2",
     "tweaker": "",
     "subsystem": "0.8.5",
-    "mappings": "1.15.1+build.1",
+    "mappings": "1.15.1+build.37",
     "mainClass": "me.deftware.client.framework.main.Main",
     "extraLibs": {},
     "launchers": [
@@ -141,7 +119,11 @@
     ],
     "modloaders": [
       "Fabric"
-    ]
+    ],
+    "features": [
+      "dynamicDirectories"
+    ],
+    "notice": "This version is associated with the Aristois Beta Initiative!\nThis update has been a major upbringing for everyone who's worked on it\n\nWhile this update has been thoroughly tested for this release,\nPlease report any and all issues or suggestions to our Trellos on discord!\n\nDiscord -> https://aristois.net/discord"
   },
   "1.15": {
     "version": "15.0.0-1.15",

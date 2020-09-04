@@ -75,16 +75,16 @@
     "notice": "This version is associated with the Aristois Beta Initiative!\nThis update has been a major upbringing for everyone who's worked on it\n\nWhile this update has been thoroughly tested for this release,\nPlease report any and all issues or suggestions to our Trellos on discord!\n\nDiscord -> https://aristois.net/discord"
   },
   "1.15.2": {
-    "version": "15.0.0-1.15.2",
-    "latestVersion": "latest-1.15.2",
+    "version": "16.0.0-1.15.2",
+    "latestVersion": "16.0.0-1.15.2",
     "inheritsFrom": "1.15.2",
-    "clientVersion": "311",
+    "clientVersion": "313",
     "latestClientVersion": "latest",
     "protocolVersion": "578",
     "dependencyTag": "-v2",
     "tweaker": "",
     "subsystem": "0.8.5",
-    "mappings": "1.15.2+build.1",
+    "mappings": "1.15.2+build.17",
     "mixinUrl": "https://github.com/LXGaming/MixinBootstrap/releases/download/v1.0.3/MixinBootstrap-1.0.3.jar",
     "mainClass": "me.deftware.client.framework.main.Main",
     "extraLibs": {},
@@ -94,7 +94,11 @@
     ],
     "modloaders": [
       "Fabric"
-    ]
+    ],
+    "features": [
+      "dynamicDirectories"
+    ],
+    "notice": "This version is associated with the Aristois Beta Initiative!\nThis update has been a major upbringing for everyone who's worked on it\n\nWhile this update has been thoroughly tested for this release,\nPlease report any and all issues or suggestions to our Trellos on discord!\n\nDiscord -> https://aristois.net/discord"
   },
   "1_15_combat-6": {
     "version": "15.0.0-1_15_combat-6",

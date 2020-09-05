@@ -2,9 +2,10 @@
     "download": "https://gitlab.com/Aristois/Installer/builds/artifacts/v16-beta/browse/packager?job=build",
     "downloadDonor": "https://gitlab.com/Aristois/Installer/builds/artifacts/v16-beta/browse/packager?job=build",
     "promos": {
-      "latest": "1.10.7",
-      "recommended": "1.10.7"
+      "latest": "1.10.7.2",
+      "recommended": "1.10.7.2"
     },
+    "1.10.7.2": "- Deprecated mappings field in Subsystem to now use intermediaries\n- Dependency Updates",
     "1.10.7": "- Supports Beta/Alpha Builds of some products\n- Dependency Updates",
     "1.10.6.1": "- Updated Dependencies and Versioning Meta\n- Added the Client and EMC Version to the Confirmation screen for additional debugging",
     "1.10.6": "- Upgraded Dependencies and Versioning Metadata",

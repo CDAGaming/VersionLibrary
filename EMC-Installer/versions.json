@@ -249,16 +249,16 @@
     "notice": "This version is associated with the Aristois Beta Initiative!\nThis update has been a major upbringing for everyone who's worked on it\n\nWhile this update has been thoroughly tested for this release,\nPlease report any and all issues or suggestions to our Trellos on discord!\n\nDiscord -> https://aristois.net/discord"
   },
   "1.14": {
-    "version": "15.0.0-1.14",
-    "latestVersion": "latest-1.14",
+    "version": "16.0.0-1.14",
+    "latestVersion": "16.0.0-1.14",
     "inheritsFrom": "1.14",
-    "clientVersion": "311",
+    "clientVersion": "313",
     "latestClientVersion": "latest",
     "protocolVersion": "477",
     "tweaker": "",
     "subsystem": "latest-separate",
-    "mappings": "1.14+build.1",
-    "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
+    "mappings": "1.14+build.21",
+    "mainClass": "me.deftware.client.framework.main.Main",
     "extraLibs": {},
     "launchers": [
       "Vanilla",
@@ -266,7 +266,11 @@
     ],
     "modloaders": [
       "Fabric"
-    ]
+    ],
+    "features": [
+      "dynamicDirectories"
+    ],
+    "notice": "This version is associated with the Aristois Beta Initiative!\nThis update has been a major upbringing for everyone who's worked on it\n\nWhile this update has been thoroughly tested for this release,\nPlease report any and all issues or suggestions to our Trellos on discord!\n\nDiscord -> https://aristois.net/discord"
   },
   "1.13.2": {
     "version": "15.0.0-1.13.2",

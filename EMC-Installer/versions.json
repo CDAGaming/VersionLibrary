@@ -1,4 +1,29 @@
 {
+  "1.16.3-rc1": {
+    "version": "16.0.0-1.16.3-rc1",
+    "latestVersion": "16.0.0-1.16.3-rc1",
+    "inheritsFrom": "1.16.3-rc1",
+    "clientVersion": "313",
+    "latestClientVersion": "latest",
+    "protocolVersion": "752",
+    "dependencyTag": "-v2",
+    "tweaker": "",
+    "subsystem": "0.8.5",
+    "mappings": "1.16.3-rc1+build.2",
+    "mainClass": "me.deftware.client.framework.main.Main",
+    "extraLibs": {},
+    "launchers": [
+      "Vanilla",
+      "MultiMC"
+    ],
+    "modloaders": [
+      "Fabric"
+    ],
+    "features": [
+      "dynamicDirectories"
+    ],
+    "notice": "This version is associated with the Aristois Beta Initiative!\nThis update has been a major upbringing for everyone who's worked on it\n\nWhile this update has been thoroughly tested for this release,\nPlease report any and all issues or suggestions to our Trellos on discord!\n\nDiscord -> https://aristois.net/discord"
+  },
   "1.16.2": {
     "version": "16.0.0-1.16.2",
     "latestVersion": "16.0.0-1.16.2",
@@ -9,7 +34,7 @@
     "dependencyTag": "-v2",
     "tweaker": "",
     "subsystem": "0.8.5",
-    "mappings": "1.16.2+build.43",
+    "mappings": "1.16.2+build.47",
     "mainClass": "me.deftware.client.framework.main.Main",
     "extraLibs": {},
     "launchers": [

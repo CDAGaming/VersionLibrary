@@ -1,15 +1,15 @@
 {
-  "1.16.3-rc1": {
-    "version": "16.0.0-1.16.3-rc1",
-    "latestVersion": "16.0.0-1.16.3-rc1",
-    "inheritsFrom": "1.16.3-rc1",
+  "1.16.3": {
+    "version": "16.0.0-1.16.3",
+    "latestVersion": "16.0.0-1.16.3",
+    "inheritsFrom": "1.16.3",
     "clientVersion": "313",
     "latestClientVersion": "latest",
-    "protocolVersion": "752",
+    "protocolVersion": "753",
     "dependencyTag": "-v2",
     "tweaker": "",
     "subsystem": "0.8.5",
-    "mappings": "1.16.3-rc1+build.2",
+    "mappings": "1.16.3+build.1",
     "mainClass": "me.deftware.client.framework.main.Main",
     "extraLibs": {},
     "launchers": [

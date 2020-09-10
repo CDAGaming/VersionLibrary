@@ -1,4 +1,25 @@
 {
+  "1.16.3": {
+    "version": "15.0.0-1.16.2",
+    "latestVersion": "latest-1.16.2",
+    "inheritsFrom": "1.16.3",
+    "clientVersion": "311",
+    "latestClientVersion": "latest",
+    "protocolVersion": "753",
+    "dependencyTag": "-v2",
+    "tweaker": "",
+    "subsystem": "0.8.5",
+    "mappings": "1.16.3+build.1",
+    "mainClass": "me.deftware.client.framework.main.Main",
+    "extraLibs": {},
+    "launchers": [
+      "Vanilla",
+      "MultiMC"
+    ],
+    "modloaders": [
+      "Fabric"
+    ]
+  },
   "1.16.2": {
     "version": "15.0.0-1.16.2",
     "latestVersion": "latest-1.16.2",

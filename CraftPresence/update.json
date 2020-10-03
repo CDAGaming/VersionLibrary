@@ -1,30 +1,30 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/craftpresence/files",
   "promos": {
-    "1.16.3-latest": "v1.7.1",
-    "1.16.3-recommended": "v1.6.8",
-    "1.16.2-latest": "v1.7.1",
-    "1.16.2-recommended": "v1.6.8",
-    "1.16.1-latest": "v1.7.1",
-    "1.16.1-recommended": "v1.6.8",
-    "1.15.2-latest": "v1.7.1",
-    "1.15.2-recommended": "v1.6.8",
-    "1.14.4-latest": "v1.7.1",
-    "1.14.4-recommended": "v1.6.8",
-    "1.13.2-latest": "v1.7.1",
-    "1.13.2-recommended": "v1.6.8",
-    "1.12.2-latest": "v1.7.1",
-    "1.12.2-recommended": "v1.6.8",
-    "1.11.2-latest": "v1.7.1",
-    "1.11.2-recommended": "v1.6.8",
-    "1.10.2-latest": "v1.7.1",
-    "1.10.2-recommended": "v1.6.8",
-    "1.9.4-latest": "v1.7.1",
-    "1.9.4-recommended": "v1.6.8",
-    "1.8.9-latest": "v1.7.1",
-    "1.8.9-recommended": "v1.6.8",
-    "1.7.10-latest": "v1.7.1",
-    "1.7.10-recommended": "v1.6.8",
+    "1.16.3-latest": "v1.7.2",
+    "1.16.3-recommended": "v1.7.2",
+    "1.16.2-latest": "v1.7.2",
+    "1.16.2-recommended": "v1.7.2",
+    "1.16.1-latest": "v1.7.2",
+    "1.16.1-recommended": "v1.7.2",
+    "1.15.2-latest": "v1.7.2",
+    "1.15.2-recommended": "v1.7.2",
+    "1.14.4-latest": "v1.7.2",
+    "1.14.4-recommended": "v1.7.2",
+    "1.13.2-latest": "v1.7.2",
+    "1.13.2-recommended": "v1.7.2",
+    "1.12.2-latest": "v1.7.2",
+    "1.12.2-recommended": "v1.7.2",
+    "1.11.2-latest": "v1.7.2",
+    "1.11.2-recommended": "v1.7.2",
+    "1.10.2-latest": "v1.7.2",
+    "1.10.2-recommended": "v1.7.2",
+    "1.9.4-latest": "v1.7.2",
+    "1.9.4-recommended": "v1.7.2",
+    "1.8.9-latest": "v1.7.2",
+    "1.8.9-recommended": "v1.7.2",
+    "1.7.10-latest": "v1.7.2",
+    "1.7.10-recommended": "v1.7.2",
     "1.6.4-latest": "v1.6.8",
     "1.6.4-recommended": "v1.6.8",
     "1.5.2-latest": "v1.6.1",
@@ -39,6 +39,7 @@
     "1.1.0-recommended": "v1.6.1"
   },
   "1.16.3": {
+    "v1.7.2": "Further improvements and stabilizing patches for v1.7.x; v1.7.x pipeline now stable",
     "v1.7.1": "Quality-Of-Life Patches for v1.7.x Users",
     "v1.7.0": "Major Feature Update improving multiple backend portions of the Mod as well as implementing long-standing user requests",
     "v1.6.8": "Hotfix patches and Improvements for v1.6.6 Users, also making final preparations for the v1.7.0 Update and the final LTS Update for the v1.6.x Pipeline",
@@ -62,6 +63,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.16.2": {
+    "v1.7.2": "Further improvements and stabilizing patches for v1.7.x; v1.7.x pipeline now stable",
     "v1.7.1": "Quality-Of-Life Patches for v1.7.x Users",
     "v1.7.0": "Major Feature Update improving multiple backend portions of the Mod as well as implementing long-standing user requests",
     "v1.6.8": "Hotfix patches and Improvements for v1.6.6 Users, also making final preparations for the v1.7.0 Update and the final LTS Update for the v1.6.x Pipeline",
@@ -85,6 +87,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.16.1": {
+    "v1.7.2": "Further improvements and stabilizing patches for v1.7.x; v1.7.x pipeline now stable",
     "v1.7.1": "Quality-Of-Life Patches for v1.7.x Users",
     "v1.7.0": "Major Feature Update improving multiple backend portions of the Mod as well as implementing long-standing user requests",
     "v1.6.8": "Hotfix patches and Improvements for v1.6.6 Users, also making final preparations for the v1.7.0 Update and the final LTS Update for the v1.6.x Pipeline",
@@ -108,6 +111,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.15.2": {
+    "v1.7.2": "Further improvements and stabilizing patches for v1.7.x; v1.7.x pipeline now stable",
     "v1.7.1": "Quality-Of-Life Patches for v1.7.x Users",
     "v1.7.0": "Major Feature Update improving multiple backend portions of the Mod as well as implementing long-standing user requests",
     "v1.6.8": "Hotfix patches and Improvements for v1.6.6 Users, also making final preparations for the v1.7.0 Update and the final LTS Update for the v1.6.x Pipeline",
@@ -131,6 +135,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.14.4": {
+    "v1.7.2": "Further improvements and stabilizing patches for v1.7.x; v1.7.x pipeline now stable",
     "v1.7.1": "Quality-Of-Life Patches for v1.7.x Users",
     "v1.7.0": "Major Feature Update improving multiple backend portions of the Mod as well as implementing long-standing user requests",
     "v1.6.8": "Hotfix patches and Improvements for v1.6.6 Users, also making final preparations for the v1.7.0 Update and the final LTS Update for the v1.6.x Pipeline",
@@ -154,6 +159,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.13.2": {
+    "v1.7.2": "Further improvements and stabilizing patches for v1.7.x; v1.7.x pipeline now stable",
     "v1.7.1": "Quality-Of-Life Patches for v1.7.x Users",
     "v1.7.0": "Major Feature Update improving multiple backend portions of the Mod as well as implementing long-standing user requests",
     "v1.6.8": "Hotfix patches and Improvements for v1.6.6 Users, also making final preparations for the v1.7.0 Update and the final LTS Update for the v1.6.x Pipeline",
@@ -177,6 +183,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.12.2": {
+    "v1.7.2": "Further improvements and stabilizing patches for v1.7.x; v1.7.x pipeline now stable",
     "v1.7.1": "Quality-Of-Life Patches for v1.7.x Users",
     "v1.7.0": "Major Feature Update improving multiple backend portions of the Mod as well as implementing long-standing user requests",
     "v1.6.8": "Hotfix patches and Improvements for v1.6.6 Users, also making final preparations for the v1.7.0 Update and the final LTS Update for the v1.6.x Pipeline",
@@ -200,6 +207,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.11.2": {
+    "v1.7.2": "Further improvements and stabilizing patches for v1.7.x; v1.7.x pipeline now stable",
     "v1.7.1": "Quality-Of-Life Patches for v1.7.x Users",
     "v1.7.0": "Major Feature Update improving multiple backend portions of the Mod as well as implementing long-standing user requests",
     "v1.6.8": "Hotfix patches and Improvements for v1.6.6 Users, also making final preparations for the v1.7.0 Update and the final LTS Update for the v1.6.x Pipeline",
@@ -223,6 +231,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.10.2": {
+    "v1.7.2": "Further improvements and stabilizing patches for v1.7.x; v1.7.x pipeline now stable",
     "v1.7.1": "Quality-Of-Life Patches for v1.7.x Users",
     "v1.7.0": "Major Feature Update improving multiple backend portions of the Mod as well as implementing long-standing user requests",
     "v1.6.8": "Hotfix patches and Improvements for v1.6.6 Users, also making final preparations for the v1.7.0 Update and the final LTS Update for the v1.6.x Pipeline",
@@ -246,6 +255,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.9.4": {
+    "v1.7.2": "Further improvements and stabilizing patches for v1.7.x; v1.7.x pipeline now stable",
     "v1.7.1": "Quality-Of-Life Patches for v1.7.x Users",
     "v1.7.0": "Major Feature Update improving multiple backend portions of the Mod as well as implementing long-standing user requests",
     "v1.6.8": "Hotfix patches and Improvements for v1.6.6 Users, also making final preparations for the v1.7.0 Update and the final LTS Update for the v1.6.x Pipeline",
@@ -269,6 +279,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.8.9": {
+    "v1.7.2": "Further improvements and stabilizing patches for v1.7.x; v1.7.x pipeline now stable",
     "v1.7.1": "Quality-Of-Life Patches for v1.7.x Users",
     "v1.7.0": "Major Feature Update improving multiple backend portions of the Mod as well as implementing long-standing user requests",
     "v1.6.8": "Hotfix patches and Improvements for v1.6.6 Users, also making final preparations for the v1.7.0 Update and the final LTS Update for the v1.6.x Pipeline",
@@ -292,6 +303,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.7.10": {
+    "v1.7.2": "Further improvements and stabilizing patches for v1.7.x; v1.7.x pipeline now stable",
     "v1.7.1": "Quality-Of-Life Patches for v1.7.x Users",
     "v1.7.0": "Major Feature Update improving multiple backend portions of the Mod as well as implementing long-standing user requests",
     "v1.6.8": "Hotfix patches and Improvements for v1.6.6 Users, also making final preparations for the v1.7.0 Update and the final LTS Update for the v1.6.x Pipeline",

@@ -23,7 +23,7 @@
       "dynamicDirectories"
     ],
     "notices": {
-        "Forge": "This Forge port is a newly released port, and while a highly requested feature, may also contain issues.\nPlease report these issues to the issue tracker"
+        "Forge": "This Forge port is a newly released port, and may contain issues.\nPlease report these issues to the issue tracker."
     }
   },
   "1.16.2": {

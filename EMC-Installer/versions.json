@@ -23,10 +23,7 @@
       "dynamicDirectories"
     ],
     "notices": {
-        "Main": "This is the main notice for 1.16.3 and works like the alt. system",
-        "Forge": "This message will display if on 1.16.3 and using Forge in any launcher",
-        "MultiMC": "This message will display if on 1.16.3 and using MultiMC with any modloader",
-        "Forge::MultiMC": "This message will display if on 1.16.3 with Forge and MultiMC"
+        "Forge": "This Forge port is a newly released port, and while a highly requested feature, may also contain issues.\nPlease report these issues to the issue tracker"
     }
   },
   "1.16.2": {

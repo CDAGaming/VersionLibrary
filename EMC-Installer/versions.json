@@ -22,7 +22,12 @@
     "features": [
       "dynamicDirectories"
     ],
-    "notice": "This version is associated with the Aristois Beta Initiative!\nThis update has been a major upbringing for everyone who's worked on it\n\nWhile this update has been thoroughly tested for this release,\nPlease report any and all issues or suggestions to our Trellos on discord!\n\nDiscord -> https://aristois.net/discord"
+    "notices": {
+        "Main": "This is the main notice for 1.16.3 and works like the alt. system",
+        "Forge": "This message will display if on 1.16.3 and using Forge in any launcher",
+        "MultiMC": "This message will display if on 1.16.3 and using MultiMC with any modloader",
+        "Forge::MultiMC": "This message will display if on 1.16.3 with Forge and MultiMC"
+    }
   },
   "1.16.2": {
     "version": "16.0.0-1.16.2",

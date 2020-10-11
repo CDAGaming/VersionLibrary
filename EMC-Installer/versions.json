@@ -17,7 +17,7 @@
       "MultiMC"
     ],
     "modloaders": [
-      "Fabric"
+      "Fabric", "Forge"
     ],
     "features": [
       "dynamicDirectories"

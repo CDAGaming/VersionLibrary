@@ -2,9 +2,10 @@
     "download": "https://gitlab.com/Aristois/Installer/builds/artifacts/alt-beta/browse/packager?job=build",
     "downloadDonor": "https://gitlab.com/Aristois/Installer/builds/artifacts/alt-beta/browse/packager?job=build",
     "promos": {
-      "latest": "1.10.8",
-      "recommended": "1.10.8"
+      "latest": "1.10.8.2",
+      "recommended": "1.10.8.2"
     },
+    "1.10.8.2": "- Maintainment Upgrade for 2021 Data",
     "1.10.8": "- Officially supporting 1.16.3 Forge\n- Revamped Notice System, old systems still supported",
     "1.10.7.5": "- Improved VSCode compatibility in backend\n- Sync Pair/Tuple Changes from CraftPresence codebase\n- The Addon Module Selector will now properly respect the current version data to show only compatible addons",
     "1.10.7.3": "- Fixed 1.9 and below EMCv16 support",

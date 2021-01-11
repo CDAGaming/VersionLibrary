@@ -1,32 +1,32 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/craftpresence/files",
   "promos": {
-    "1.16.4-latest": "v1.7.5",
-    "1.16.4-recommended": "v1.7.5",
-    "1.16.3-latest": "v1.7.5",
-    "1.16.3-recommended": "v1.7.5",
-    "1.16.2-latest": "v1.7.5",
-    "1.16.2-recommended": "v1.7.5",
-    "1.16.1-latest": "v1.7.5",
-    "1.16.1-recommended": "v1.7.5",
-    "1.15.2-latest": "v1.7.5",
-    "1.15.2-recommended": "v1.7.5",
-    "1.14.4-latest": "v1.7.5",
-    "1.14.4-recommended": "v1.7.5",
-    "1.13.2-latest": "v1.7.5",
-    "1.13.2-recommended": "v1.7.5",
-    "1.12.2-latest": "v1.7.5",
-    "1.12.2-recommended": "v1.7.5",
-    "1.11.2-latest": "v1.7.5",
-    "1.11.2-recommended": "v1.7.5",
-    "1.10.2-latest": "v1.7.5",
-    "1.10.2-recommended": "v1.7.5",
-    "1.9.4-latest": "v1.7.5",
-    "1.9.4-recommended": "v1.7.5",
-    "1.8.9-latest": "v1.7.5",
-    "1.8.9-recommended": "v1.7.5",
-    "1.7.10-latest": "v1.7.5",
-    "1.7.10-recommended": "v1.7.5",
+    "1.16.4-latest": "v1.7.6",
+    "1.16.4-recommended": "v1.7.6",
+    "1.16.3-latest": "v1.7.6",
+    "1.16.3-recommended": "v1.7.6",
+    "1.16.2-latest": "v1.7.6",
+    "1.16.2-recommended": "v1.7.6",
+    "1.16.1-latest": "v1.7.6",
+    "1.16.1-recommended": "v1.7.6",
+    "1.15.2-latest": "v1.7.6",
+    "1.15.2-recommended": "v1.7.6",
+    "1.14.4-latest": "v1.7.6",
+    "1.14.4-recommended": "v1.7.6",
+    "1.13.2-latest": "v1.7.6",
+    "1.13.2-recommended": "v1.7.6",
+    "1.12.2-latest": "v1.7.6",
+    "1.12.2-recommended": "v1.7.6",
+    "1.11.2-latest": "v1.7.6",
+    "1.11.2-recommended": "v1.7.6",
+    "1.10.2-latest": "v1.7.6",
+    "1.10.2-recommended": "v1.7.6",
+    "1.9.4-latest": "v1.7.6",
+    "1.9.4-recommended": "v1.7.6",
+    "1.8.9-latest": "v1.7.6",
+    "1.8.9-recommended": "v1.7.6",
+    "1.7.10-latest": "v1.7.6",
+    "1.7.10-recommended": "v1.7.6",
     "1.6.4-latest": "v1.6.8",
     "1.6.4-recommended": "v1.6.8",
     "1.5.2-latest": "v1.6.1",
@@ -41,6 +41,7 @@
     "1.1.0-recommended": "v1.6.1"
   },
   "1.16.4": {
+    "v1.7.6": "Bug-Fix and Quality of Life Improvements from v1.7.5; Also contains multiple compatibility and stability adjustments",
     "v1.7.5": "LTS Release for all v1.7.x Users; Contains numerous backend and frontend stability improvements and fixes",
     "v1.7.2": "Further improvements and stabilizing patches for v1.7.x; v1.7.x pipeline now stable",
     "v1.7.1": "Quality-Of-Life Patches for v1.7.x Users",
@@ -66,6 +67,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.16.3": {
+    "v1.7.6": "Bug-Fix and Quality of Life Improvements from v1.7.5; Also contains multiple compatibility and stability adjustments",
     "v1.7.5": "LTS Release for all v1.7.x Users; Contains numerous backend and frontend stability improvements and fixes",
     "v1.7.2": "Further improvements and stabilizing patches for v1.7.x; v1.7.x pipeline now stable",
     "v1.7.1": "Quality-Of-Life Patches for v1.7.x Users",
@@ -91,6 +93,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.16.2": {
+    "v1.7.6": "Bug-Fix and Quality of Life Improvements from v1.7.5; Also contains multiple compatibility and stability adjustments",
     "v1.7.5": "LTS Release for all v1.7.x Users; Contains numerous backend and frontend stability improvements and fixes",
     "v1.7.2": "Further improvements and stabilizing patches for v1.7.x; v1.7.x pipeline now stable",
     "v1.7.1": "Quality-Of-Life Patches for v1.7.x Users",
@@ -116,6 +119,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.16.1": {
+    "v1.7.6": "Bug-Fix and Quality of Life Improvements from v1.7.5; Also contains multiple compatibility and stability adjustments",
     "v1.7.5": "LTS Release for all v1.7.x Users; Contains numerous backend and frontend stability improvements and fixes",
     "v1.7.2": "Further improvements and stabilizing patches for v1.7.x; v1.7.x pipeline now stable",
     "v1.7.1": "Quality-Of-Life Patches for v1.7.x Users",
@@ -141,6 +145,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.15.2": {
+    "v1.7.6": "Bug-Fix and Quality of Life Improvements from v1.7.5; Also contains multiple compatibility and stability adjustments",
     "v1.7.5": "LTS Release for all v1.7.x Users; Contains numerous backend and frontend stability improvements and fixes",
     "v1.7.2": "Further improvements and stabilizing patches for v1.7.x; v1.7.x pipeline now stable",
     "v1.7.1": "Quality-Of-Life Patches for v1.7.x Users",
@@ -166,6 +171,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.14.4": {
+    "v1.7.6": "Bug-Fix and Quality of Life Improvements from v1.7.5; Also contains multiple compatibility and stability adjustments",
     "v1.7.5": "LTS Release for all v1.7.x Users; Contains numerous backend and frontend stability improvements and fixes",
     "v1.7.2": "Further improvements and stabilizing patches for v1.7.x; v1.7.x pipeline now stable",
     "v1.7.1": "Quality-Of-Life Patches for v1.7.x Users",
@@ -191,6 +197,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.13.2": {
+    "v1.7.6": "Bug-Fix and Quality of Life Improvements from v1.7.5; Also contains multiple compatibility and stability adjustments",
     "v1.7.5": "LTS Release for all v1.7.x Users; Contains numerous backend and frontend stability improvements and fixes",
     "v1.7.2": "Further improvements and stabilizing patches for v1.7.x; v1.7.x pipeline now stable",
     "v1.7.1": "Quality-Of-Life Patches for v1.7.x Users",
@@ -216,6 +223,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.12.2": {
+    "v1.7.6": "Bug-Fix and Quality of Life Improvements from v1.7.5; Also contains multiple compatibility and stability adjustments",
     "v1.7.5": "LTS Release for all v1.7.x Users; Contains numerous backend and frontend stability improvements and fixes",
     "v1.7.2": "Further improvements and stabilizing patches for v1.7.x; v1.7.x pipeline now stable",
     "v1.7.1": "Quality-Of-Life Patches for v1.7.x Users",
@@ -241,6 +249,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.11.2": {
+    "v1.7.6": "Bug-Fix and Quality of Life Improvements from v1.7.5; Also contains multiple compatibility and stability adjustments",
     "v1.7.5": "LTS Release for all v1.7.x Users; Contains numerous backend and frontend stability improvements and fixes",
     "v1.7.2": "Further improvements and stabilizing patches for v1.7.x; v1.7.x pipeline now stable",
     "v1.7.1": "Quality-Of-Life Patches for v1.7.x Users",
@@ -266,6 +275,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.10.2": {
+    "v1.7.6": "Bug-Fix and Quality of Life Improvements from v1.7.5; Also contains multiple compatibility and stability adjustments",
     "v1.7.5": "LTS Release for all v1.7.x Users; Contains numerous backend and frontend stability improvements and fixes",
     "v1.7.2": "Further improvements and stabilizing patches for v1.7.x; v1.7.x pipeline now stable",
     "v1.7.1": "Quality-Of-Life Patches for v1.7.x Users",
@@ -291,6 +301,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.9.4": {
+    "v1.7.6": "Bug-Fix and Quality of Life Improvements from v1.7.5; Also contains multiple compatibility and stability adjustments",
     "v1.7.5": "LTS Release for all v1.7.x Users; Contains numerous backend and frontend stability improvements and fixes",
     "v1.7.2": "Further improvements and stabilizing patches for v1.7.x; v1.7.x pipeline now stable",
     "v1.7.1": "Quality-Of-Life Patches for v1.7.x Users",
@@ -316,6 +327,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.8.9": {
+    "v1.7.6": "Bug-Fix and Quality of Life Improvements from v1.7.5; Also contains multiple compatibility and stability adjustments",
     "v1.7.5": "LTS Release for all v1.7.x Users; Contains numerous backend and frontend stability improvements and fixes",
     "v1.7.2": "Further improvements and stabilizing patches for v1.7.x; v1.7.x pipeline now stable",
     "v1.7.1": "Quality-Of-Life Patches for v1.7.x Users",
@@ -341,6 +353,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.7.10": {
+    "v1.7.6": "Bug-Fix and Quality of Life Improvements from v1.7.5; Also contains multiple compatibility and stability adjustments",
     "v1.7.5": "LTS Release for all v1.7.x Users; Contains numerous backend and frontend stability improvements and fixes",
     "v1.7.2": "Further improvements and stabilizing patches for v1.7.x; v1.7.x pipeline now stable",
     "v1.7.1": "Quality-Of-Life Patches for v1.7.x Users",

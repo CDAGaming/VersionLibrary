@@ -1,32 +1,32 @@
 {
   "homepage": "https://minecraft.curseforge.com/projects/craftpresence/files",
   "promos": {
-    "1.17-latest": "v1.8.0",
-    "1.17-recommended": "v1.8.0",
-    "1.16.5-latest": "v1.8.0",
-    "1.16.5-recommended": "v1.8.0",
-    "1.16.4-latest": "v1.8.0",
-    "1.16.4-recommended": "v1.8.0",
-    "1.15.2-latest": "v1.8.0",
-    "1.15.2-recommended": "v1.8.0",
-    "1.14.4-latest": "v1.8.0",
-    "1.14.4-recommended": "v1.8.0",
-    "1.13.2-latest": "v1.8.0",
-    "1.13.2-recommended": "v1.8.0",
-    "1.12.2-latest": "v1.8.0",
-    "1.12.2-recommended": "v1.8.0",
-    "1.11.2-latest": "v1.8.0",
-    "1.11.2-recommended": "v1.8.0",
-    "1.10.2-latest": "v1.8.0",
-    "1.10.2-recommended": "v1.8.0",
-    "1.9.4-latest": "v1.8.0",
-    "1.9.4-recommended": "v1.8.0",
-    "1.8.9-latest": "v1.8.0",
-    "1.8.9-recommended": "v1.8.0",
-    "1.7.10-latest": "v1.8.0",
-    "1.7.10-recommended": "v1.8.0",
-    "1.6.4-latest": "v1.8.0",
-    "1.6.4-recommended": "v1.8.0",
+    "1.17-latest": "v1.8.1",
+    "1.17-recommended": "v1.8.1",
+    "1.16.5-latest": "v1.8.1",
+    "1.16.5-recommended": "v1.8.1",
+    "1.16.4-latest": "v1.8.1",
+    "1.16.4-recommended": "v1.8.1",
+    "1.15.2-latest": "v1.8.1",
+    "1.15.2-recommended": "v1.8.1",
+    "1.14.4-latest": "v1.8.1",
+    "1.14.4-recommended": "v1.8.1",
+    "1.13.2-latest": "v1.8.1",
+    "1.13.2-recommended": "v1.8.1",
+    "1.12.2-latest": "v1.8.1",
+    "1.12.2-recommended": "v1.8.1",
+    "1.11.2-latest": "v1.8.1",
+    "1.11.2-recommended": "v1.8.1",
+    "1.10.2-latest": "v1.8.1",
+    "1.10.2-recommended": "v1.8.1",
+    "1.9.4-latest": "v1.8.1",
+    "1.9.4-recommended": "v1.8.1",
+    "1.8.9-latest": "v1.8.1",
+    "1.8.9-recommended": "v1.8.1",
+    "1.7.10-latest": "v1.8.1",
+    "1.7.10-recommended": "v1.8.1",
+    "1.6.4-latest": "v1.8.1",
+    "1.6.4-recommended": "v1.8.1",
     "1.5.2-latest": "v1.6.1",
     "1.5.2-recommended": "v1.6.1",
     "1.4.7-latest": "v1.6.1",
@@ -39,6 +39,7 @@
     "1.1.0-recommended": "v1.6.1"
   },
   "1.17": {
+    "v1.8.1": "Hotfixes for v1.8.0 users, involving regression fixes for Join Requests and metadata updates",
     "v1.8.0": "Quality of Life and Maintainer Upgrades for Long-Standing Issues and suggestions",
     "v1.7.6": "Bug-Fix and Quality of Life Improvements from v1.7.5; Also contains multiple compatibility and stability adjustments",
     "v1.7.5": "LTS Release for all v1.7.x Users; Contains numerous backend and frontend stability improvements and fixes",
@@ -66,6 +67,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.16.5": {
+    "v1.8.1": "Hotfixes for v1.8.0 users, involving regression fixes for Join Requests and metadata updates",
     "v1.8.0": "Quality of Life and Maintainer Upgrades for Long-Standing Issues and suggestions",
     "v1.7.6": "Bug-Fix and Quality of Life Improvements from v1.7.5; Also contains multiple compatibility and stability adjustments",
     "v1.7.5": "LTS Release for all v1.7.x Users; Contains numerous backend and frontend stability improvements and fixes",
@@ -93,6 +95,8 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.16.4": {
+    "v1.8.1": "Hotfixes for v1.8.0 users, involving regression fixes for Join Requests and metadata updates",
+    "v1.8.0": "Quality of Life and Maintainer Upgrades for Long-Standing Issues and suggestions",
     "v1.7.6": "Bug-Fix and Quality of Life Improvements from v1.7.5; Also contains multiple compatibility and stability adjustments",
     "v1.7.5": "LTS Release for all v1.7.x Users; Contains numerous backend and frontend stability improvements and fixes",
     "v1.7.2": "Further improvements and stabilizing patches for v1.7.x; v1.7.x pipeline now stable",
@@ -119,6 +123,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.15.2": {
+    "v1.8.1": "Hotfixes for v1.8.0 users, involving regression fixes for Join Requests and metadata updates",
     "v1.8.0": "Quality of Life and Maintainer Upgrades for Long-Standing Issues and suggestions",
     "v1.7.6": "Bug-Fix and Quality of Life Improvements from v1.7.5; Also contains multiple compatibility and stability adjustments",
     "v1.7.5": "LTS Release for all v1.7.x Users; Contains numerous backend and frontend stability improvements and fixes",
@@ -146,6 +151,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.14.4": {
+    "v1.8.1": "Hotfixes for v1.8.0 users, involving regression fixes for Join Requests and metadata updates",
     "v1.8.0": "Quality of Life and Maintainer Upgrades for Long-Standing Issues and suggestions",
     "v1.7.6": "Bug-Fix and Quality of Life Improvements from v1.7.5; Also contains multiple compatibility and stability adjustments",
     "v1.7.5": "LTS Release for all v1.7.x Users; Contains numerous backend and frontend stability improvements and fixes",
@@ -173,6 +179,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.13.2": {
+    "v1.8.1": "Hotfixes for v1.8.0 users, involving regression fixes for Join Requests and metadata updates",
     "v1.8.0": "Quality of Life and Maintainer Upgrades for Long-Standing Issues and suggestions",
     "v1.7.6": "Bug-Fix and Quality of Life Improvements from v1.7.5; Also contains multiple compatibility and stability adjustments",
     "v1.7.5": "LTS Release for all v1.7.x Users; Contains numerous backend and frontend stability improvements and fixes",
@@ -200,6 +207,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.12.2": {
+    "v1.8.1": "Hotfixes for v1.8.0 users, involving regression fixes for Join Requests and metadata updates",
     "v1.8.0": "Quality of Life and Maintainer Upgrades for Long-Standing Issues and suggestions",
     "v1.7.6": "Bug-Fix and Quality of Life Improvements from v1.7.5; Also contains multiple compatibility and stability adjustments",
     "v1.7.5": "LTS Release for all v1.7.x Users; Contains numerous backend and frontend stability improvements and fixes",
@@ -227,6 +235,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.11.2": {
+    "v1.8.1": "Hotfixes for v1.8.0 users, involving regression fixes for Join Requests and metadata updates",
     "v1.8.0": "Quality of Life and Maintainer Upgrades for Long-Standing Issues and suggestions",
     "v1.7.6": "Bug-Fix and Quality of Life Improvements from v1.7.5; Also contains multiple compatibility and stability adjustments",
     "v1.7.5": "LTS Release for all v1.7.x Users; Contains numerous backend and frontend stability improvements and fixes",
@@ -254,6 +263,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.10.2": {
+    "v1.8.1": "Hotfixes for v1.8.0 users, involving regression fixes for Join Requests and metadata updates",
     "v1.8.0": "Quality of Life and Maintainer Upgrades for Long-Standing Issues and suggestions",
     "v1.7.6": "Bug-Fix and Quality of Life Improvements from v1.7.5; Also contains multiple compatibility and stability adjustments",
     "v1.7.5": "LTS Release for all v1.7.x Users; Contains numerous backend and frontend stability improvements and fixes",
@@ -281,6 +291,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.9.4": {
+    "v1.8.1": "Hotfixes for v1.8.0 users, involving regression fixes for Join Requests and metadata updates",
     "v1.8.0": "Quality of Life and Maintainer Upgrades for Long-Standing Issues and suggestions",
     "v1.7.6": "Bug-Fix and Quality of Life Improvements from v1.7.5; Also contains multiple compatibility and stability adjustments",
     "v1.7.5": "LTS Release for all v1.7.x Users; Contains numerous backend and frontend stability improvements and fixes",
@@ -308,6 +319,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.8.9": {
+    "v1.8.1": "Hotfixes for v1.8.0 users, involving regression fixes for Join Requests and metadata updates",
     "v1.8.0": "Quality of Life and Maintainer Upgrades for Long-Standing Issues and suggestions",
     "v1.7.6": "Bug-Fix and Quality of Life Improvements from v1.7.5; Also contains multiple compatibility and stability adjustments",
     "v1.7.5": "LTS Release for all v1.7.x Users; Contains numerous backend and frontend stability improvements and fixes",
@@ -335,6 +347,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.7.10": {
+    "v1.8.1": "Hotfixes for v1.8.0 users, involving regression fixes for Join Requests and metadata updates",
     "v1.8.0": "Quality of Life and Maintainer Upgrades for Long-Standing Issues and suggestions",
     "v1.7.6": "Bug-Fix and Quality of Life Improvements from v1.7.5; Also contains multiple compatibility and stability adjustments",
     "v1.7.5": "LTS Release for all v1.7.x Users; Contains numerous backend and frontend stability improvements and fixes",
@@ -362,6 +375,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.6.4": {
+    "v1.8.1": "Hotfixes for v1.8.0 users, involving regression fixes for Join Requests and metadata updates",
     "v1.8.0": "Quality of Life and Maintainer Upgrades for Long-Standing Issues and suggestions",
     "v1.7.6": "Bug-Fix and Quality of Life Improvements from v1.7.5; Also contains multiple compatibility and stability adjustments",
     "v1.7.5": "LTS Release for all v1.7.x Users; Contains numerous backend and frontend stability improvements and fixes",

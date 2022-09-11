@@ -1,48 +1,49 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/craftpresence/files",
   "promos": {
-    "1.19.2-latest": "v1.8.11",
-    "1.19.2-recommended": "v1.8.11",
-    "1.18.2-latest": "v1.8.11",
-    "1.18.2-recommended": "v1.8.11",
-    "1.17.1-latest": "v1.8.11",
-    "1.17.1-recommended": "v1.8.11",
-    "1.16.5-latest": "v1.8.11",
-    "1.16.5-recommended": "v1.8.11",
-    "1.15.2-latest": "v1.8.11",
-    "1.15.2-recommended": "v1.8.11",
-    "1.14.4-latest": "v1.8.11",
-    "1.14.4-recommended": "v1.8.11",
-    "1.13.2-latest": "v1.8.11",
-    "1.13.2-recommended": "v1.8.11",
-    "1.12.2-latest": "v1.8.11",
-    "1.12.2-recommended": "v1.8.11",
-    "1.11.2-latest": "v1.8.11",
-    "1.11.2-recommended": "v1.8.11",
-    "1.10.2-latest": "v1.8.11",
-    "1.10.2-recommended": "v1.8.11",
-    "1.9.4-latest": "v1.8.11",
-    "1.9.4-recommended": "v1.8.11",
-    "1.8.9-latest": "v1.8.11",
-    "1.8.9-recommended": "v1.8.11",
-    "1.7.10-latest": "v1.8.11",
-    "1.7.10-recommended": "v1.8.11",
-    "1.6.4-latest": "v1.8.11",
-    "1.6.4-recommended": "v1.8.11",
-    "1.5.2-latest": "v1.8.11",
-    "1.5.2-recommended": "v1.8.11",
-    "1.4.7-latest": "v1.8.11",
-    "1.4.7-recommended": "v1.8.11",
-    "1.3.2-latest": "v1.8.11",
-    "1.3.2-recommended": "v1.8.11",
-    "1.2.5-latest": "v1.8.11",
-    "1.2.5-recommended": "v1.8.11",
-    "1.1.0-latest": "v1.8.11",
-    "1.1.0-recommended": "v1.8.11",
-    "1.0.0-latest": "v1.8.11",
-    "1.0.0-recommended": "v1.8.11"
+    "1.19.2-latest": "v1.8.12",
+    "1.19.2-recommended": "v1.8.12",
+    "1.18.2-latest": "v1.8.12",
+    "1.18.2-recommended": "v1.8.12",
+    "1.17.1-latest": "v1.8.12",
+    "1.17.1-recommended": "v1.8.12",
+    "1.16.5-latest": "v1.8.12",
+    "1.16.5-recommended": "v1.8.12",
+    "1.15.2-latest": "v1.8.12",
+    "1.15.2-recommended": "v1.8.12",
+    "1.14.4-latest": "v1.8.12",
+    "1.14.4-recommended": "v1.8.12",
+    "1.13.2-latest": "v1.8.12",
+    "1.13.2-recommended": "v1.8.12",
+    "1.12.2-latest": "v1.8.12",
+    "1.12.2-recommended": "v1.8.12",
+    "1.11.2-latest": "v1.8.12",
+    "1.11.2-recommended": "v1.8.12",
+    "1.10.2-latest": "v1.8.12",
+    "1.10.2-recommended": "v1.8.12",
+    "1.9.4-latest": "v1.8.12",
+    "1.9.4-recommended": "v1.8.12",
+    "1.8.9-latest": "v1.8.12",
+    "1.8.9-recommended": "v1.8.12",
+    "1.7.10-latest": "v1.8.12",
+    "1.7.10-recommended": "v1.8.12",
+    "1.6.4-latest": "v1.8.12",
+    "1.6.4-recommended": "v1.8.12",
+    "1.5.2-latest": "v1.8.12",
+    "1.5.2-recommended": "v1.8.12",
+    "1.4.7-latest": "v1.8.12",
+    "1.4.7-recommended": "v1.8.12",
+    "1.3.2-latest": "v1.8.12",
+    "1.3.2-recommended": "v1.8.12",
+    "1.2.5-latest": "v1.8.12",
+    "1.2.5-recommended": "v1.8.12",
+    "1.1.0-latest": "v1.8.12",
+    "1.1.0-recommended": "v1.8.12",
+    "1.0.0-latest": "v1.8.12",
+    "1.0.0-recommended": "v1.8.12"
   },
   "1.19.2": {
+    "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
     "v1.8.9": "Maintainer Patches for 2022 + Fixes for Client IDs above 18 characters",
@@ -78,6 +79,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.18.2": {
+    "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
     "v1.8.9": "Maintainer Patches for 2022 + Fixes for Client IDs above 18 characters",
@@ -113,6 +115,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.17.1": {
+    "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
     "v1.8.9": "Maintainer Patches for 2022 + Fixes for Client IDs above 18 characters",
@@ -148,6 +151,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.16.5": {
+    "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
     "v1.8.9": "Maintainer Patches for 2022 + Fixes for Client IDs above 18 characters",
@@ -183,6 +187,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.15.2": {
+    "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
     "v1.8.9": "Maintainer Patches for 2022 + Fixes for Client IDs above 18 characters",
@@ -218,6 +223,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.14.4": {
+    "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
     "v1.8.9": "Maintainer Patches for 2022 + Fixes for Client IDs above 18 characters",
@@ -253,6 +259,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.13.2": {
+    "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
     "v1.8.9": "Maintainer Patches for 2022 + Fixes for Client IDs above 18 characters",
@@ -288,6 +295,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.12.2": {
+    "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
     "v1.8.9": "Maintainer Patches for 2022 + Fixes for Client IDs above 18 characters",
@@ -323,6 +331,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.11.2": {
+    "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
     "v1.8.9": "Maintainer Patches for 2022 + Fixes for Client IDs above 18 characters",
@@ -358,6 +367,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.10.2": {
+    "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
     "v1.8.9": "Maintainer Patches for 2022 + Fixes for Client IDs above 18 characters",
@@ -393,6 +403,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.9.4": {
+    "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
     "v1.8.9": "Maintainer Patches for 2022 + Fixes for Client IDs above 18 characters",
@@ -428,6 +439,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.8.9": {
+    "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
     "v1.8.9": "Maintainer Patches for 2022 + Fixes for Client IDs above 18 characters",
@@ -463,6 +475,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.7.10": {
+    "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
     "v1.8.9": "Maintainer Patches for 2022 + Fixes for Client IDs above 18 characters",
@@ -498,6 +511,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.6.4": {
+    "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
     "v1.8.9": "Maintainer Patches for 2022 + Fixes for Client IDs above 18 characters",
@@ -533,6 +547,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.5.2": {
+    "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
     "v1.8.9": "Maintainer Patches for 2022 + Fixes for Client IDs above 18 characters",
@@ -568,6 +583,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.4.7": {
+    "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
     "v1.8.9": "Maintainer Patches for 2022 + Fixes for Client IDs above 18 characters",
@@ -603,6 +619,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.3.2": {
+    "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
     "v1.8.9": "Maintainer Patches for 2022 + Fixes for Client IDs above 18 characters",
@@ -638,6 +655,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.2.5": {
+    "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
     "v1.8.9": "Maintainer Patches for 2022 + Fixes for Client IDs above 18 characters",
@@ -673,6 +691,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.1.0": {
+    "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
     "v1.8.9": "Maintainer Patches for 2022 + Fixes for Client IDs above 18 characters",
@@ -708,6 +727,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.0.0": {
+    "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
     "v1.8.9": "Maintainer Patches for 2022 + Fixes for Client IDs above 18 characters",

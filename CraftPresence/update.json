@@ -39,8 +39,8 @@
     "1.2.5-recommended": "v1.8.12",
     "1.1-latest": "v1.8.12",
     "1.1-recommended": "v1.8.12",
-    "1.0.0-latest": "v1.8.12",
-    "1.0.0-recommended": "v1.8.12"
+    "1.0-latest": "v1.8.12",
+    "1.0-recommended": "v1.8.12"
   },
   "1.19.2": {
     "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
@@ -726,7 +726,7 @@
     "v1.4.2": "Recommended Update for Users on v1.4.0, with Major Fixes and Improvements to the Config System",
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
-  "1.0.0": {
+  "1.0": {
     "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",

@@ -1,68 +1,69 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/craftpresence/files",
   "promos": {
-    "1.19.2-latest": "v1.8.12",
-    "1.19.2-recommended": "v1.8.12",
-    "1.18.2-latest": "v1.8.12",
-    "1.18.2-recommended": "v1.8.12",
-    "1.17.1-latest": "v1.8.12",
-    "1.17.1-recommended": "v1.8.12",
-    "1.16.5-latest": "v1.8.12",
-    "1.16.5-recommended": "v1.8.12",
-    "1.15.2-latest": "v1.8.12",
-    "1.15.2-recommended": "v1.8.12",
-    "1.14.4-latest": "v1.8.12",
-    "1.14.4-recommended": "v1.8.12",
-    "1.13.2-latest": "v1.8.12",
-    "1.13.2-recommended": "v1.8.12",
-    "1.12.2-latest": "v1.8.12",
-    "1.12.2-recommended": "v1.8.12",
-    "1.11.2-latest": "v1.8.12",
-    "1.11.2-recommended": "v1.8.12",
-    "1.10.2-latest": "v1.8.12",
-    "1.10.2-recommended": "v1.8.12",
-    "1.9.4-latest": "v1.8.12",
-    "1.9.4-recommended": "v1.8.12",
-    "1.8.9-latest": "v1.8.12",
-    "1.8.9-recommended": "v1.8.12",
-    "1.7.10-latest": "v1.8.12",
-    "1.7.10-recommended": "v1.8.12",
-    "1.6.4-latest": "v1.8.12",
-    "1.6.4-recommended": "v1.8.12",
-    "1.5.2-latest": "v1.8.12",
-    "1.5.2-recommended": "v1.8.12",
-    "1.4.7-latest": "v1.8.12",
-    "1.4.7-recommended": "v1.8.12",
-    "1.3.2-latest": "v1.8.12",
-    "1.3.2-recommended": "v1.8.12",
-    "1.2.5-latest": "v1.8.12",
-    "1.2.5-recommended": "v1.8.12",
-    "1.1-latest": "v1.8.12",
-    "1.1-recommended": "v1.8.12",
-    "1.0-latest": "v1.8.12",
-    "1.0-recommended": "v1.8.12",
-    "b1.8.1-latest": "v1.8.12",
-    "b1.8.1-recommended": "v1.8.12",
-    "b1.7.3-latest": "v1.8.12",
-    "b1.7.3-recommended": "v1.8.12",
-    "b1.6.6-latest": "v1.8.12",
-    "b1.6.6-recommended": "v1.8.12",
-    "b1.5_01-latest": "v1.8.12",
-    "b1.5_01-recommended": "v1.8.12",
-    "b1.4_01-latest": "v1.8.12",
-    "b1.4_01-recommended": "v1.8.12",
-    "b1.3_01-latest": "v1.8.12",
-    "b1.3_01-recommended": "v1.8.12",
-    "b1.2_02-latest": "v1.8.12",
-    "b1.2_02-recommended": "v1.8.12",
-    "b1.1_02-latest": "v1.8.12",
-    "b1.1_02-recommended": "v1.8.12",
-    "a1.2.6-latest": "v1.8.12",
-    "a1.2.6-recommended": "v1.8.12",
-    "a1.1.2_01-latest": "v1.8.12",
-    "a1.1.2_01-recommended": "v1.8.12"
+    "1.19.2-latest": "v1.9.0",
+    "1.19.2-recommended": "v1.9.0",
+    "1.18.2-latest": "v1.9.0",
+    "1.18.2-recommended": "v1.9.0",
+    "1.17.1-latest": "v1.9.0",
+    "1.17.1-recommended": "v1.9.0",
+    "1.16.5-latest": "v1.9.0",
+    "1.16.5-recommended": "v1.9.0",
+    "1.15.2-latest": "v1.9.0",
+    "1.15.2-recommended": "v1.9.0",
+    "1.14.4-latest": "v1.9.0",
+    "1.14.4-recommended": "v1.9.0",
+    "1.13.2-latest": "v1.9.0",
+    "1.13.2-recommended": "v1.9.0",
+    "1.12.2-latest": "v1.9.0",
+    "1.12.2-recommended": "v1.9.0",
+    "1.11.2-latest": "v1.9.0",
+    "1.11.2-recommended": "v1.9.0",
+    "1.10.2-latest": "v1.9.0",
+    "1.10.2-recommended": "v1.9.0",
+    "1.9.4-latest": "v1.9.0",
+    "1.9.4-recommended": "v1.9.0",
+    "1.8.9-latest": "v1.9.0",
+    "1.8.9-recommended": "v1.9.0",
+    "1.7.10-latest": "v1.9.0",
+    "1.7.10-recommended": "v1.9.0",
+    "1.6.4-latest": "v1.9.0",
+    "1.6.4-recommended": "v1.9.0",
+    "1.5.2-latest": "v1.9.0",
+    "1.5.2-recommended": "v1.9.0",
+    "1.4.7-latest": "v1.9.0",
+    "1.4.7-recommended": "v1.9.0",
+    "1.3.2-latest": "v1.9.0",
+    "1.3.2-recommended": "v1.9.0",
+    "1.2.5-latest": "v1.9.0",
+    "1.2.5-recommended": "v1.9.0",
+    "1.1-latest": "v1.9.0",
+    "1.1-recommended": "v1.9.0",
+    "1.0-latest": "v1.9.0",
+    "1.0-recommended": "v1.9.0",
+    "b1.8.1-latest": "v1.9.0",
+    "b1.8.1-recommended": "v1.9.0",
+    "b1.7.3-latest": "v1.9.0",
+    "b1.7.3-recommended": "v1.9.0",
+    "b1.6.6-latest": "v1.9.0",
+    "b1.6.6-recommended": "v1.9.0",
+    "b1.5_01-latest": "v1.9.0",
+    "b1.5_01-recommended": "v1.9.0",
+    "b1.4_01-latest": "v1.9.0",
+    "b1.4_01-recommended": "v1.9.0",
+    "b1.3_01-latest": "v1.9.0",
+    "b1.3_01-recommended": "v1.9.0",
+    "b1.2_02-latest": "v1.9.0",
+    "b1.2_02-recommended": "v1.9.0",
+    "b1.1_02-latest": "v1.9.0",
+    "b1.1_02-recommended": "v1.9.0",
+    "a1.2.6-latest": "v1.9.0",
+    "a1.2.6-recommended": "v1.9.0",
+    "a1.1.2_01-latest": "v1.9.0",
+    "a1.1.2_01-recommended": "v1.9.0"
   },
   "1.19.2": {
+    "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes",
     "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
@@ -99,6 +100,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.18.2": {
+    "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes",
     "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
@@ -135,6 +137,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.17.1": {
+    "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes",
     "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
@@ -171,6 +174,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.16.5": {
+    "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes",
     "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
@@ -207,6 +211,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.15.2": {
+    "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes",
     "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
@@ -243,6 +248,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.14.4": {
+    "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes",
     "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
@@ -279,6 +285,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.13.2": {
+    "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes",
     "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
@@ -315,6 +322,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.12.2": {
+    "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes",
     "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
@@ -351,6 +359,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.11.2": {
+    "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes",
     "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
@@ -387,6 +396,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.10.2": {
+    "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes",
     "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
@@ -423,6 +433,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.9.4": {
+    "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes",
     "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
@@ -459,6 +470,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.8.9": {
+    "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes",
     "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
@@ -495,6 +507,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.7.10": {
+    "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes",
     "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
@@ -531,6 +544,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.6.4": {
+    "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes",
     "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
@@ -567,6 +581,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.5.2": {
+    "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes",
     "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
@@ -603,6 +618,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.4.7": {
+    "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes",
     "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
@@ -639,6 +655,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.3.2": {
+    "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes",
     "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
@@ -675,6 +692,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.2.5": {
+    "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes",
     "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
@@ -711,6 +729,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.1": {
+    "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes",
     "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
@@ -747,6 +766,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.0": {
+    "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes",
     "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
@@ -783,6 +803,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "b1.8.1": {
+    "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes",
     "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
@@ -819,6 +840,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "b1.7.3": {
+    "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes",
     "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
@@ -855,6 +877,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "b1.6.6": {
+    "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes",
     "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
@@ -891,6 +914,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "b1.5_01": {
+    "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes",
     "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
@@ -927,6 +951,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "b1.4_01": {
+    "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes",
     "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
@@ -963,6 +988,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "b1.3_01": {
+    "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes",
     "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
@@ -999,6 +1025,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "b1.2_02": {
+    "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes",
     "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
@@ -1035,6 +1062,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "b1.1_02": {
+    "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes",
     "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
@@ -1071,6 +1099,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "a1.2.6": {
+    "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes",
     "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",
@@ -1107,6 +1136,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "a1.1.2_01": {
+    "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes",
     "v1.8.12": "Beta and Alpha MC Support, QOL Patches for all v1.8.x Users and staging changes for v1.9.0 Preparation",
     "v1.8.11": "Hotfixes for Critical Issues in v1.8.10, relating to newer Java Versions and Fabric ModLoader build regressions",
     "v1.8.10": "Minor Compatibility Fixes + Modrinth Build Script Support",

@@ -1,68 +1,69 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/craftpresence/files",
   "promos": {
-    "1.19.2-latest": "v1.9.3",
-    "1.19.2-recommended": "v1.9.3",
-    "1.18.2-latest": "v1.9.3",
-    "1.18.2-recommended": "v1.9.3",
-    "1.17.1-latest": "v1.9.3",
-    "1.17.1-recommended": "v1.9.3",
-    "1.16.5-latest": "v1.9.3",
-    "1.16.5-recommended": "v1.9.3",
-    "1.15.2-latest": "v1.9.3",
-    "1.15.2-recommended": "v1.9.3",
-    "1.14.4-latest": "v1.9.3",
-    "1.14.4-recommended": "v1.9.3",
-    "1.13.2-latest": "v1.9.3",
-    "1.13.2-recommended": "v1.9.3",
-    "1.12.2-latest": "v1.9.3",
-    "1.12.2-recommended": "v1.9.3",
-    "1.11.2-latest": "v1.9.3",
-    "1.11.2-recommended": "v1.9.3",
-    "1.10.2-latest": "v1.9.3",
-    "1.10.2-recommended": "v1.9.3",
-    "1.9.4-latest": "v1.9.3",
-    "1.9.4-recommended": "v1.9.3",
-    "1.8.9-latest": "v1.9.3",
-    "1.8.9-recommended": "v1.9.3",
-    "1.7.10-latest": "v1.9.3",
-    "1.7.10-recommended": "v1.9.3",
-    "1.6.4-latest": "v1.9.3",
-    "1.6.4-recommended": "v1.9.3",
-    "1.5.2-latest": "v1.9.3",
-    "1.5.2-recommended": "v1.9.3",
-    "1.4.7-latest": "v1.9.3",
-    "1.4.7-recommended": "v1.9.3",
-    "1.3.2-latest": "v1.9.3",
-    "1.3.2-recommended": "v1.9.3",
-    "1.2.5-latest": "v1.9.3",
-    "1.2.5-recommended": "v1.9.3",
-    "1.1-latest": "v1.9.3",
-    "1.1-recommended": "v1.9.3",
-    "1.0-latest": "v1.9.3",
-    "1.0-recommended": "v1.9.3",
-    "b1.8.1-latest": "v1.9.3",
-    "b1.8.1-recommended": "v1.9.3",
-    "b1.7.3-latest": "v1.9.3",
-    "b1.7.3-recommended": "v1.9.3",
-    "b1.6.6-latest": "v1.9.3",
-    "b1.6.6-recommended": "v1.9.3",
-    "b1.5_01-latest": "v1.9.3",
-    "b1.5_01-recommended": "v1.9.3",
-    "b1.4_01-latest": "v1.9.3",
-    "b1.4_01-recommended": "v1.9.3",
-    "b1.3_01-latest": "v1.9.3",
-    "b1.3_01-recommended": "v1.9.3",
-    "b1.2_02-latest": "v1.9.3",
-    "b1.2_02-recommended": "v1.9.3",
-    "b1.1_02-latest": "v1.9.3",
-    "b1.1_02-recommended": "v1.9.3",
-    "a1.2.6-latest": "v1.9.3",
-    "a1.2.6-recommended": "v1.9.3",
-    "a1.1.2_01-latest": "v1.9.3",
-    "a1.1.2_01-recommended": "v1.9.3"
+    "1.19.2-latest": "v1.9.4",
+    "1.19.2-recommended": "v1.9.4",
+    "1.18.2-latest": "v1.9.4",
+    "1.18.2-recommended": "v1.9.4",
+    "1.17.1-latest": "v1.9.4",
+    "1.17.1-recommended": "v1.9.4",
+    "1.16.5-latest": "v1.9.4",
+    "1.16.5-recommended": "v1.9.4",
+    "1.15.2-latest": "v1.9.4",
+    "1.15.2-recommended": "v1.9.4",
+    "1.14.4-latest": "v1.9.4",
+    "1.14.4-recommended": "v1.9.4",
+    "1.13.2-latest": "v1.9.4",
+    "1.13.2-recommended": "v1.9.4",
+    "1.12.2-latest": "v1.9.4",
+    "1.12.2-recommended": "v1.9.4",
+    "1.11.2-latest": "v1.9.4",
+    "1.11.2-recommended": "v1.9.4",
+    "1.10.2-latest": "v1.9.4",
+    "1.10.2-recommended": "v1.9.4",
+    "1.9.4-latest": "v1.9.4",
+    "1.9.4-recommended": "v1.9.4",
+    "1.8.9-latest": "v1.9.4",
+    "1.8.9-recommended": "v1.9.4",
+    "1.7.10-latest": "v1.9.4",
+    "1.7.10-recommended": "v1.9.4",
+    "1.6.4-latest": "v1.9.4",
+    "1.6.4-recommended": "v1.9.4",
+    "1.5.2-latest": "v1.9.4",
+    "1.5.2-recommended": "v1.9.4",
+    "1.4.7-latest": "v1.9.4",
+    "1.4.7-recommended": "v1.9.4",
+    "1.3.2-latest": "v1.9.4",
+    "1.3.2-recommended": "v1.9.4",
+    "1.2.5-latest": "v1.9.4",
+    "1.2.5-recommended": "v1.9.4",
+    "1.1-latest": "v1.9.4",
+    "1.1-recommended": "v1.9.4",
+    "1.0-latest": "v1.9.4",
+    "1.0-recommended": "v1.9.4",
+    "b1.8.1-latest": "v1.9.4",
+    "b1.8.1-recommended": "v1.9.4",
+    "b1.7.3-latest": "v1.9.4",
+    "b1.7.3-recommended": "v1.9.4",
+    "b1.6.6-latest": "v1.9.4",
+    "b1.6.6-recommended": "v1.9.4",
+    "b1.5_01-latest": "v1.9.4",
+    "b1.5_01-recommended": "v1.9.4",
+    "b1.4_01-latest": "v1.9.4",
+    "b1.4_01-recommended": "v1.9.4",
+    "b1.3_01-latest": "v1.9.4",
+    "b1.3_01-recommended": "v1.9.4",
+    "b1.2_02-latest": "v1.9.4",
+    "b1.2_02-recommended": "v1.9.4",
+    "b1.1_02-latest": "v1.9.4",
+    "b1.1_02-recommended": "v1.9.4",
+    "a1.2.6-latest": "v1.9.4",
+    "a1.2.6-recommended": "v1.9.4",
+    "a1.1.2_01-latest": "v1.9.4",
+    "a1.1.2_01-recommended": "v1.9.4"
   },
   "1.19.2": {
+    "v1.9.4": "Critical Patches for v1.9.3 users, including severe regression fixes from earlier v1.9.x patches, in addition to adding additional placeholder control methods",
     "v1.9.3": "Translation Updates and Misc. bug fixes and improvements for v1.9.x users",
     "v1.9.2": "Stabilizing Patches, Refactors, and overall improvements for v1.9.x users, in addition to several regression fixes between v1.8.x and v1.9.0/v1.9.1",
     "v1.9.1": "Day-One Patch for all v1.9.0 users, including critical fixes for Dynamic Editors, RPC Button Functionality, and removing dynamic array content",
@@ -103,6 +104,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.18.2": {
+    "v1.9.4": "Critical Patches for v1.9.3 users, including severe regression fixes from earlier v1.9.x patches, in addition to adding additional placeholder control methods",
     "v1.9.3": "Translation Updates and Misc. bug fixes and improvements for v1.9.x users",
     "v1.9.2": "Stabilizing Patches, Refactors, and overall improvements for v1.9.x users, in addition to several regression fixes between v1.8.x and v1.9.0/v1.9.1",
     "v1.9.1": "Day-One Patch for all v1.9.0 users, including critical fixes for Dynamic Editors, RPC Button Functionality, and removing dynamic array content",
@@ -143,6 +145,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.17.1": {
+    "v1.9.4": "Critical Patches for v1.9.3 users, including severe regression fixes from earlier v1.9.x patches, in addition to adding additional placeholder control methods",
     "v1.9.3": "Translation Updates and Misc. bug fixes and improvements for v1.9.x users",
     "v1.9.2": "Stabilizing Patches, Refactors, and overall improvements for v1.9.x users, in addition to several regression fixes between v1.8.x and v1.9.0/v1.9.1",
     "v1.9.1": "Day-One Patch for all v1.9.0 users, including critical fixes for Dynamic Editors, RPC Button Functionality, and removing dynamic array content",
@@ -183,6 +186,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.16.5": {
+    "v1.9.4": "Critical Patches for v1.9.3 users, including severe regression fixes from earlier v1.9.x patches, in addition to adding additional placeholder control methods",
     "v1.9.3": "Translation Updates and Misc. bug fixes and improvements for v1.9.x users",
     "v1.9.2": "Stabilizing Patches, Refactors, and overall improvements for v1.9.x users, in addition to several regression fixes between v1.8.x and v1.9.0/v1.9.1",
     "v1.9.1": "Day-One Patch for all v1.9.0 users, including critical fixes for Dynamic Editors, RPC Button Functionality, and removing dynamic array content",
@@ -223,6 +227,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.15.2": {
+    "v1.9.4": "Critical Patches for v1.9.3 users, including severe regression fixes from earlier v1.9.x patches, in addition to adding additional placeholder control methods",
     "v1.9.3": "Translation Updates and Misc. bug fixes and improvements for v1.9.x users",
     "v1.9.2": "Stabilizing Patches, Refactors, and overall improvements for v1.9.x users, in addition to several regression fixes between v1.8.x and v1.9.0/v1.9.1",
     "v1.9.1": "Day-One Patch for all v1.9.0 users, including critical fixes for Dynamic Editors, RPC Button Functionality, and removing dynamic array content",
@@ -263,6 +268,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.14.4": {
+    "v1.9.4": "Critical Patches for v1.9.3 users, including severe regression fixes from earlier v1.9.x patches, in addition to adding additional placeholder control methods",
     "v1.9.3": "Translation Updates and Misc. bug fixes and improvements for v1.9.x users",
     "v1.9.2": "Stabilizing Patches, Refactors, and overall improvements for v1.9.x users, in addition to several regression fixes between v1.8.x and v1.9.0/v1.9.1",
     "v1.9.1": "Day-One Patch for all v1.9.0 users, including critical fixes for Dynamic Editors, RPC Button Functionality, and removing dynamic array content",
@@ -303,6 +309,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.13.2": {
+    "v1.9.4": "Critical Patches for v1.9.3 users, including severe regression fixes from earlier v1.9.x patches, in addition to adding additional placeholder control methods",
     "v1.9.3": "Translation Updates and Misc. bug fixes and improvements for v1.9.x users",
     "v1.9.2": "Stabilizing Patches, Refactors, and overall improvements for v1.9.x users, in addition to several regression fixes between v1.8.x and v1.9.0/v1.9.1",
     "v1.9.1": "Day-One Patch for all v1.9.0 users, including critical fixes for Dynamic Editors, RPC Button Functionality, and removing dynamic array content",
@@ -343,6 +350,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.12.2": {
+    "v1.9.4": "Critical Patches for v1.9.3 users, including severe regression fixes from earlier v1.9.x patches, in addition to adding additional placeholder control methods",
     "v1.9.3": "Translation Updates and Misc. bug fixes and improvements for v1.9.x users",
     "v1.9.2": "Stabilizing Patches, Refactors, and overall improvements for v1.9.x users, in addition to several regression fixes between v1.8.x and v1.9.0/v1.9.1",
     "v1.9.1": "Day-One Patch for all v1.9.0 users, including critical fixes for Dynamic Editors, RPC Button Functionality, and removing dynamic array content",
@@ -383,6 +391,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.11.2": {
+    "v1.9.4": "Critical Patches for v1.9.3 users, including severe regression fixes from earlier v1.9.x patches, in addition to adding additional placeholder control methods",
     "v1.9.3": "Translation Updates and Misc. bug fixes and improvements for v1.9.x users",
     "v1.9.2": "Stabilizing Patches, Refactors, and overall improvements for v1.9.x users, in addition to several regression fixes between v1.8.x and v1.9.0/v1.9.1",
     "v1.9.1": "Day-One Patch for all v1.9.0 users, including critical fixes for Dynamic Editors, RPC Button Functionality, and removing dynamic array content",
@@ -423,6 +432,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.10.2": {
+    "v1.9.4": "Critical Patches for v1.9.3 users, including severe regression fixes from earlier v1.9.x patches, in addition to adding additional placeholder control methods",
     "v1.9.3": "Translation Updates and Misc. bug fixes and improvements for v1.9.x users",
     "v1.9.2": "Stabilizing Patches, Refactors, and overall improvements for v1.9.x users, in addition to several regression fixes between v1.8.x and v1.9.0/v1.9.1",
     "v1.9.1": "Day-One Patch for all v1.9.0 users, including critical fixes for Dynamic Editors, RPC Button Functionality, and removing dynamic array content",
@@ -463,6 +473,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.9.4": {
+    "v1.9.4": "Critical Patches for v1.9.3 users, including severe regression fixes from earlier v1.9.x patches, in addition to adding additional placeholder control methods",
     "v1.9.3": "Translation Updates and Misc. bug fixes and improvements for v1.9.x users",
     "v1.9.2": "Stabilizing Patches, Refactors, and overall improvements for v1.9.x users, in addition to several regression fixes between v1.8.x and v1.9.0/v1.9.1",
     "v1.9.1": "Day-One Patch for all v1.9.0 users, including critical fixes for Dynamic Editors, RPC Button Functionality, and removing dynamic array content",
@@ -503,6 +514,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.8.9": {
+    "v1.9.4": "Critical Patches for v1.9.3 users, including severe regression fixes from earlier v1.9.x patches, in addition to adding additional placeholder control methods",
     "v1.9.3": "Translation Updates and Misc. bug fixes and improvements for v1.9.x users",
     "v1.9.2": "Stabilizing Patches, Refactors, and overall improvements for v1.9.x users, in addition to several regression fixes between v1.8.x and v1.9.0/v1.9.1",
     "v1.9.1": "Day-One Patch for all v1.9.0 users, including critical fixes for Dynamic Editors, RPC Button Functionality, and removing dynamic array content",
@@ -543,6 +555,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.7.10": {
+    "v1.9.4": "Critical Patches for v1.9.3 users, including severe regression fixes from earlier v1.9.x patches, in addition to adding additional placeholder control methods",
     "v1.9.3": "Translation Updates and Misc. bug fixes and improvements for v1.9.x users",
     "v1.9.2": "Stabilizing Patches, Refactors, and overall improvements for v1.9.x users, in addition to several regression fixes between v1.8.x and v1.9.0/v1.9.1",
     "v1.9.1": "Day-One Patch for all v1.9.0 users, including critical fixes for Dynamic Editors, RPC Button Functionality, and removing dynamic array content",
@@ -583,6 +596,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.6.4": {
+    "v1.9.4": "Critical Patches for v1.9.3 users, including severe regression fixes from earlier v1.9.x patches, in addition to adding additional placeholder control methods",
     "v1.9.3": "Translation Updates and Misc. bug fixes and improvements for v1.9.x users",
     "v1.9.2": "Stabilizing Patches, Refactors, and overall improvements for v1.9.x users, in addition to several regression fixes between v1.8.x and v1.9.0/v1.9.1",
     "v1.9.1": "Day-One Patch for all v1.9.0 users, including critical fixes for Dynamic Editors, RPC Button Functionality, and removing dynamic array content",
@@ -623,6 +637,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.5.2": {
+    "v1.9.4": "Critical Patches for v1.9.3 users, including severe regression fixes from earlier v1.9.x patches, in addition to adding additional placeholder control methods",
     "v1.9.3": "Translation Updates and Misc. bug fixes and improvements for v1.9.x users",
     "v1.9.2": "Stabilizing Patches, Refactors, and overall improvements for v1.9.x users, in addition to several regression fixes between v1.8.x and v1.9.0/v1.9.1",
     "v1.9.1": "Day-One Patch for all v1.9.0 users, including critical fixes for Dynamic Editors, RPC Button Functionality, and removing dynamic array content",
@@ -663,6 +678,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.4.7": {
+    "v1.9.4": "Critical Patches for v1.9.3 users, including severe regression fixes from earlier v1.9.x patches, in addition to adding additional placeholder control methods",
     "v1.9.3": "Translation Updates and Misc. bug fixes and improvements for v1.9.x users",
     "v1.9.2": "Stabilizing Patches, Refactors, and overall improvements for v1.9.x users, in addition to several regression fixes between v1.8.x and v1.9.0/v1.9.1",
     "v1.9.1": "Day-One Patch for all v1.9.0 users, including critical fixes for Dynamic Editors, RPC Button Functionality, and removing dynamic array content",
@@ -703,6 +719,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.3.2": {
+    "v1.9.4": "Critical Patches for v1.9.3 users, including severe regression fixes from earlier v1.9.x patches, in addition to adding additional placeholder control methods",
     "v1.9.3": "Translation Updates and Misc. bug fixes and improvements for v1.9.x users",
     "v1.9.2": "Stabilizing Patches, Refactors, and overall improvements for v1.9.x users, in addition to several regression fixes between v1.8.x and v1.9.0/v1.9.1",
     "v1.9.1": "Day-One Patch for all v1.9.0 users, including critical fixes for Dynamic Editors, RPC Button Functionality, and removing dynamic array content",
@@ -743,6 +760,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.2.5": {
+    "v1.9.4": "Critical Patches for v1.9.3 users, including severe regression fixes from earlier v1.9.x patches, in addition to adding additional placeholder control methods",
     "v1.9.3": "Translation Updates and Misc. bug fixes and improvements for v1.9.x users",
     "v1.9.2": "Stabilizing Patches, Refactors, and overall improvements for v1.9.x users, in addition to several regression fixes between v1.8.x and v1.9.0/v1.9.1",
     "v1.9.1": "Day-One Patch for all v1.9.0 users, including critical fixes for Dynamic Editors, RPC Button Functionality, and removing dynamic array content",
@@ -783,6 +801,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.1": {
+    "v1.9.4": "Critical Patches for v1.9.3 users, including severe regression fixes from earlier v1.9.x patches, in addition to adding additional placeholder control methods",
     "v1.9.3": "Translation Updates and Misc. bug fixes and improvements for v1.9.x users",
     "v1.9.2": "Stabilizing Patches, Refactors, and overall improvements for v1.9.x users, in addition to several regression fixes between v1.8.x and v1.9.0/v1.9.1",
     "v1.9.1": "Day-One Patch for all v1.9.0 users, including critical fixes for Dynamic Editors, RPC Button Functionality, and removing dynamic array content",
@@ -823,6 +842,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.0": {
+    "v1.9.4": "Critical Patches for v1.9.3 users, including severe regression fixes from earlier v1.9.x patches, in addition to adding additional placeholder control methods",
     "v1.9.3": "Translation Updates and Misc. bug fixes and improvements for v1.9.x users",
     "v1.9.2": "Stabilizing Patches, Refactors, and overall improvements for v1.9.x users, in addition to several regression fixes between v1.8.x and v1.9.0/v1.9.1",
     "v1.9.1": "Day-One Patch for all v1.9.0 users, including critical fixes for Dynamic Editors, RPC Button Functionality, and removing dynamic array content",
@@ -863,6 +883,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "b1.8.1": {
+    "v1.9.4": "Critical Patches for v1.9.3 users, including severe regression fixes from earlier v1.9.x patches, in addition to adding additional placeholder control methods",
     "v1.9.3": "Translation Updates and Misc. bug fixes and improvements for v1.9.x users",
     "v1.9.2": "Stabilizing Patches, Refactors, and overall improvements for v1.9.x users, in addition to several regression fixes between v1.8.x and v1.9.0/v1.9.1",
     "v1.9.1": "Day-One Patch for all v1.9.0 users, including critical fixes for Dynamic Editors, RPC Button Functionality, and removing dynamic array content",
@@ -903,6 +924,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "b1.7.3": {
+    "v1.9.4": "Critical Patches for v1.9.3 users, including severe regression fixes from earlier v1.9.x patches, in addition to adding additional placeholder control methods",
     "v1.9.3": "Translation Updates and Misc. bug fixes and improvements for v1.9.x users",
     "v1.9.2": "Stabilizing Patches, Refactors, and overall improvements for v1.9.x users, in addition to several regression fixes between v1.8.x and v1.9.0/v1.9.1",
     "v1.9.1": "Day-One Patch for all v1.9.0 users, including critical fixes for Dynamic Editors, RPC Button Functionality, and removing dynamic array content",
@@ -943,6 +965,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "b1.6.6": {
+    "v1.9.4": "Critical Patches for v1.9.3 users, including severe regression fixes from earlier v1.9.x patches, in addition to adding additional placeholder control methods",
     "v1.9.3": "Translation Updates and Misc. bug fixes and improvements for v1.9.x users",
     "v1.9.2": "Stabilizing Patches, Refactors, and overall improvements for v1.9.x users, in addition to several regression fixes between v1.8.x and v1.9.0/v1.9.1",
     "v1.9.1": "Day-One Patch for all v1.9.0 users, including critical fixes for Dynamic Editors, RPC Button Functionality, and removing dynamic array content",
@@ -983,6 +1006,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "b1.5_01": {
+    "v1.9.4": "Critical Patches for v1.9.3 users, including severe regression fixes from earlier v1.9.x patches, in addition to adding additional placeholder control methods",
     "v1.9.3": "Translation Updates and Misc. bug fixes and improvements for v1.9.x users",
     "v1.9.2": "Stabilizing Patches, Refactors, and overall improvements for v1.9.x users, in addition to several regression fixes between v1.8.x and v1.9.0/v1.9.1",
     "v1.9.1": "Day-One Patch for all v1.9.0 users, including critical fixes for Dynamic Editors, RPC Button Functionality, and removing dynamic array content",
@@ -1023,6 +1047,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "b1.4_01": {
+    "v1.9.4": "Critical Patches for v1.9.3 users, including severe regression fixes from earlier v1.9.x patches, in addition to adding additional placeholder control methods",
     "v1.9.3": "Translation Updates and Misc. bug fixes and improvements for v1.9.x users",
     "v1.9.2": "Stabilizing Patches, Refactors, and overall improvements for v1.9.x users, in addition to several regression fixes between v1.8.x and v1.9.0/v1.9.1",
     "v1.9.1": "Day-One Patch for all v1.9.0 users, including critical fixes for Dynamic Editors, RPC Button Functionality, and removing dynamic array content",
@@ -1063,6 +1088,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "b1.3_01": {
+    "v1.9.4": "Critical Patches for v1.9.3 users, including severe regression fixes from earlier v1.9.x patches, in addition to adding additional placeholder control methods",
     "v1.9.3": "Translation Updates and Misc. bug fixes and improvements for v1.9.x users",
     "v1.9.2": "Stabilizing Patches, Refactors, and overall improvements for v1.9.x users, in addition to several regression fixes between v1.8.x and v1.9.0/v1.9.1",
     "v1.9.1": "Day-One Patch for all v1.9.0 users, including critical fixes for Dynamic Editors, RPC Button Functionality, and removing dynamic array content",
@@ -1103,6 +1129,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "b1.2_02": {
+    "v1.9.4": "Critical Patches for v1.9.3 users, including severe regression fixes from earlier v1.9.x patches, in addition to adding additional placeholder control methods",
     "v1.9.3": "Translation Updates and Misc. bug fixes and improvements for v1.9.x users",
     "v1.9.2": "Stabilizing Patches, Refactors, and overall improvements for v1.9.x users, in addition to several regression fixes between v1.8.x and v1.9.0/v1.9.1",
     "v1.9.1": "Day-One Patch for all v1.9.0 users, including critical fixes for Dynamic Editors, RPC Button Functionality, and removing dynamic array content",
@@ -1143,6 +1170,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "b1.1_02": {
+    "v1.9.4": "Critical Patches for v1.9.3 users, including severe regression fixes from earlier v1.9.x patches, in addition to adding additional placeholder control methods",
     "v1.9.3": "Translation Updates and Misc. bug fixes and improvements for v1.9.x users",
     "v1.9.2": "Stabilizing Patches, Refactors, and overall improvements for v1.9.x users, in addition to several regression fixes between v1.8.x and v1.9.0/v1.9.1",
     "v1.9.1": "Day-One Patch for all v1.9.0 users, including critical fixes for Dynamic Editors, RPC Button Functionality, and removing dynamic array content",
@@ -1183,6 +1211,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "a1.2.6": {
+    "v1.9.4": "Critical Patches for v1.9.3 users, including severe regression fixes from earlier v1.9.x patches, in addition to adding additional placeholder control methods",
     "v1.9.3": "Translation Updates and Misc. bug fixes and improvements for v1.9.x users",
     "v1.9.2": "Stabilizing Patches, Refactors, and overall improvements for v1.9.x users, in addition to several regression fixes between v1.8.x and v1.9.0/v1.9.1",
     "v1.9.1": "Day-One Patch for all v1.9.0 users, including critical fixes for Dynamic Editors, RPC Button Functionality, and removing dynamic array content",
@@ -1223,6 +1252,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "a1.1.2_01": {
+    "v1.9.4": "Critical Patches for v1.9.3 users, including severe regression fixes from earlier v1.9.x patches, in addition to adding additional placeholder control methods",
     "v1.9.3": "Translation Updates and Misc. bug fixes and improvements for v1.9.x users",
     "v1.9.2": "Stabilizing Patches, Refactors, and overall improvements for v1.9.x users, in addition to several regression fixes between v1.8.x and v1.9.0/v1.9.1",
     "v1.9.1": "Day-One Patch for all v1.9.0 users, including critical fixes for Dynamic Editors, RPC Button Functionality, and removing dynamic array content",

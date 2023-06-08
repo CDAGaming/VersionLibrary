@@ -1,8 +1,8 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/craftpresence/files",
   "promos": {
-    "1.20-latest": "v2.0.5",
-    "1.20-recommended": "v2.0.5",
+    "1.20-latest": "v2.0.7",
+    "1.20-recommended": "v2.0.7",
     "1.19.4-latest": "v2.0.5",
     "1.19.4-recommended": "v2.0.5",
     "1.19.3-latest": "v2.0.5",
@@ -101,6 +101,7 @@
     "a1.1.2_01-recommended": "v2.0.5"
   },
   "1.20": {
+    "v2.0.7": "Day-One MC 1.20 Support, in addition to Fixes for Legacy MC Biome/Dimension Regressions and adjustments to Module, Placeholder, and Join Request Logic to resolve some flaws",
     "v2.0.5": "Day-One Patch for all v2.0.0 Users, including Critical Fixes for Flaws related to the Per-GUI Module and improvements to Item Rendering",
     "v2.0.0": "Complete Rewrite + Overhaul, including dozens of Fixes, Enhancements, and Features for ALL Users (See GitLab, CurseForge, or Modrinth for Changelog)"
   },

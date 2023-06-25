@@ -1,6 +1,8 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/craftpresence/files",
   "promos": {
+    "1.20.1-latest": "v2.1.0",
+    "1.20.1-recommended": "v2.1.0",
     "1.20-latest": "v2.0.7",
     "1.20-recommended": "v2.0.7",
     "1.19.4-latest": "v2.0.7",
@@ -99,6 +101,10 @@
     "a1.2.6-recommended": "v2.0.7",
     "a1.1.2_01-latest": "v2.0.7",
     "a1.1.2_01-recommended": "v2.0.7"
+  },
+  "1.20.1": {
+    "v2.1.0": "Major Content and Bug Fix Patch for all v2.x Users, supporting Offline Mode functionality, numerous bug-fixes, and additional QOL tweaks to various parts of the mod",
+    "v2.0.7": "Day-One MC 1.20 Support, in addition to Fixes for Legacy MC Biome/Dimension Regressions and adjustments to Module, Placeholder, and Join Request Logic to resolve some flaws"
   },
   "1.20": {
     "v2.0.7": "Day-One MC 1.20 Support, in addition to Fixes for Legacy MC Biome/Dimension Regressions and adjustments to Module, Placeholder, and Join Request Logic to resolve some flaws",

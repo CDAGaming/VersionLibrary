@@ -1,6 +1,8 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/craftpresence/files",
   "promos": {
+    "1.20.2-latest": "v2.2.3",
+    "1.20.2-recommended": "v2.2.3",
     "1.20.1-latest": "v2.2.3",
     "1.20.1-recommended": "v2.2.3",
     "1.20-latest": "v2.2.3",
@@ -103,6 +105,11 @@
     "a1.2.6-recommended": "v2.2.3",
     "a1.1.2_01-latest": "v2.2.3",
     "a1.1.2_01-recommended": "v2.2.3"
+  },
+  "1.20.2": {
+    "v2.2.3": "Minor Bug-Fix patches for v2.2.2, with minor backend cleanups",
+    "v2.2.2": "Major Bug-Fix update for v2.x Users and Legacy MC Version Usage, with minor feature adjustments relating to Pack Integrations",
+    "v2.2.1": "Initial MC 1.20.2 and NeoForge Support, also including various bug-fixes and Quality-Of-Life tweaks to UI and Scripting Functions within the mod"
   },
   "1.20.1": {
     "v2.2.3": "Minor Bug-Fix patches for v2.2.2, with minor backend cleanups",

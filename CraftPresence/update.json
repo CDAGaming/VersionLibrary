@@ -57,8 +57,6 @@
     "1.14-recommended": "v2.2.4",
     "1.13.2-latest": "v2.2.4",
     "1.13.2-recommended": "v2.2.4",
-    "1.13-latest": "v1.4.9.9",
-    "1.13-recommended": "v1.4.9.9",
     "1.12.2-latest": "v2.2.4",
     "1.12.2-recommended": "v2.2.4",
     "1.11.2-latest": "v2.2.4",
@@ -597,16 +595,6 @@
     "v1.5.0": "This major update includes Forge 1.13.2 Support, MCUpdater Support, Redesigned Commands, and fixes for several issues in v1.4.x",
     "v1.4.9.9": "Patch Security Vulnerability in Downloads and Minor Stability fixes for v1.4.x Users",
     "v1.4.9.8": "Minor Bug and Stability Fixes for v1.4.x Users"
-  },
-  "1.13": {
-    "v1.4.9.9": "Patch Security Vulnerability in Downloads and Minor Stability fixes for v1.4.x Users",
-    "v1.4.9.8": "Minor Bug and Stability Fixes for v1.4.x Users",
-    "v1.4.9.5": "Major Bug-Fixes for v1.4.x Users",
-    "v1.4.9": "Includes Bug Fixes and Join Requests and LAN Support",
-    "v1.4.8": "Major Bug-Fix and Feature Update for v1.4.x Users",
-    "v1.4.5": "Recommended Update for Users on v1.4.2; Resolve Crashes and Completes Config GUI",
-    "v1.4.2": "Recommended Update for Users on v1.4.0, with Major Fixes and Improvements to the Config System",
-    "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.12.2": {
     "v2.2.4": "Maintainer Update for v2.x Users; features dependency updates, improved Side detection to avoid crashes, and minor placeholder integration adjustments",

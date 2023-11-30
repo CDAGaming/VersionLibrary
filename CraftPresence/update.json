@@ -1,6 +1,8 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/craftpresence/files",
   "promos": {
+    "1.20.3-latest": "v2.2.5",
+    "1.20.3-recommended": "v2.2.5",
     "1.20.2-latest": "v2.2.5",
     "1.20.2-recommended": "v2.2.5",
     "1.20.1-latest": "v2.2.5",
@@ -103,6 +105,9 @@
     "a1.2.6-recommended": "v2.2.5",
     "a1.1.2_01-latest": "v2.2.5",
     "a1.1.2_01-recommended": "v2.2.5"
+  },
+  "1.20.3": {
+    "v2.2.5": "Maintainer Update for v2.x Users; features dependency updates, bug fixes for UI and Server issues, and minor API refactors"
   },
   "1.20.2": {
     "v2.2.5": "Maintainer Update for v2.x Users; features dependency updates, bug fixes for UI and Server issues, and minor API refactors",

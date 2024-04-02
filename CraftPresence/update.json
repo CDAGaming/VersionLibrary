@@ -1,126 +1,129 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/craftpresence/files",
   "promos": {
-    "1.20.4-latest": "v2.3.5",
-    "1.20.4-recommended": "v2.3.5",
-    "1.20.3-latest": "v2.3.5",
-    "1.20.3-recommended": "v2.3.5",
-    "1.20.2-latest": "v2.3.5",
-    "1.20.2-recommended": "v2.3.5",
-    "1.20.1-latest": "v2.3.5",
-    "1.20.1-recommended": "v2.3.5",
-    "1.20-latest": "v2.3.5",
-    "1.20-recommended": "v2.3.5",
-    "1.19.4-latest": "v2.3.5",
-    "1.19.4-recommended": "v2.3.5",
-    "1.19.3-latest": "v2.3.5",
-    "1.19.3-recommended": "v2.3.5",
-    "1.19.2-latest": "v2.3.5",
-    "1.19.2-recommended": "v2.3.5",
-    "1.19.1-latest": "v2.3.5",
-    "1.19.1-recommended": "v2.3.5",
-    "1.19-latest": "v2.3.5",
-    "1.19-recommended": "v2.3.5",
-    "1.18.2-latest": "v2.3.5",
-    "1.18.2-recommended": "v2.3.5",
-    "1.18.1-latest": "v2.3.5",
-    "1.18.1-recommended": "v2.3.5",
-    "1.18-latest": "v2.3.5",
-    "1.18-recommended": "v2.3.5",
-    "1.17.1-latest": "v2.3.5",
-    "1.17.1-recommended": "v2.3.5",
-    "1.17-latest": "v2.3.5",
-    "1.17-recommended": "v2.3.5",
-    "1.16.5-latest": "v2.3.5",
-    "1.16.5-recommended": "v2.3.5",
-    "1.16.4-latest": "v2.3.5",
-    "1.16.4-recommended": "v2.3.5",
-    "1.16.3-latest": "v2.3.5",
-    "1.16.3-recommended": "v2.3.5",
-    "1.16.2-latest": "v2.3.5",
-    "1.16.2-recommended": "v2.3.5",
-    "1.16.1-latest": "v2.3.5",
-    "1.16.1-recommended": "v2.3.5",
-    "1.16-latest": "v2.3.5",
-    "1.16-recommended": "v2.3.5",
-    "1.15.2-latest": "v2.3.5",
-    "1.15.2-recommended": "v2.3.5",
-    "1.15.1-latest": "v2.3.5",
-    "1.15.1-recommended": "v2.3.5",
-    "1.15-latest": "v2.3.5",
-    "1.15-recommended": "v2.3.5",
-    "1.14.4-latest": "v2.3.5",
-    "1.14.4-recommended": "v2.3.5",
-    "1.14.3-latest": "v2.3.5",
-    "1.14.3-recommended": "v2.3.5",
-    "1.14.2-latest": "v2.3.5",
-    "1.14.2-recommended": "v2.3.5",
-    "1.14.1-latest": "v2.3.5",
-    "1.14.1-recommended": "v2.3.5",
-    "1.14-latest": "v2.3.5",
-    "1.14-recommended": "v2.3.5",
-    "1.13.2-latest": "v2.3.5",
-    "1.13.2-recommended": "v2.3.5",
-    "1.12.2-latest": "v2.3.5",
-    "1.12.2-recommended": "v2.3.5",
-    "1.11.2-latest": "v2.3.5",
-    "1.11.2-recommended": "v2.3.5",
-    "1.10.2-latest": "v2.3.5",
-    "1.10.2-recommended": "v2.3.5",
-    "1.9.4-latest": "v2.3.5",
-    "1.9.4-recommended": "v2.3.5",
-    "1.8.9-latest": "v2.3.5",
-    "1.8.9-recommended": "v2.3.5",
-    "1.7.10-latest": "v2.3.5",
-    "1.7.10-recommended": "v2.3.5",
-    "1.6.4-latest": "v2.3.5",
-    "1.6.4-recommended": "v2.3.5",
-    "1.5.2-latest": "v2.3.5",
-    "1.5.2-recommended": "v2.3.5",
-    "1.4.7-latest": "v2.3.5",
-    "1.4.7-recommended": "v2.3.5",
-    "1.3.2-latest": "v2.3.5",
-    "1.3.2-recommended": "v2.3.5",
-    "1.2.5-latest": "v2.3.5",
-    "1.2.5-recommended": "v2.3.5",
-    "1.1-latest": "v2.3.5",
-    "1.1-recommended": "v2.3.5",
-    "1.0-latest": "v2.3.5",
-    "1.0-recommended": "v2.3.5",
-    "b1.8.1-latest": "v2.3.5",
-    "b1.8.1-recommended": "v2.3.5",
-    "b1.7.3-latest": "v2.3.5",
-    "b1.7.3-recommended": "v2.3.5",
-    "b1.6.6-latest": "v2.3.5",
-    "b1.6.6-recommended": "v2.3.5",
-    "b1.5_01-latest": "v2.3.5",
-    "b1.5_01-recommended": "v2.3.5",
-    "b1.4_01-latest": "v2.3.5",
-    "b1.4_01-recommended": "v2.3.5",
-    "b1.3_01-latest": "v2.3.5",
-    "b1.3_01-recommended": "v2.3.5",
-    "b1.2_02-latest": "v2.3.5",
-    "b1.2_02-recommended": "v2.3.5",
-    "b1.1_02-latest": "v2.3.5",
-    "b1.1_02-recommended": "v2.3.5",
-    "a1.2.6-latest": "v2.3.5",
-    "a1.2.6-recommended": "v2.3.5",
-    "a1.1.2_01-latest": "v2.3.5",
-    "a1.1.2_01-recommended": "v2.3.5"
+    "1.20.4-latest": "v2.3.7",
+    "1.20.4-recommended": "v2.3.7",
+    "1.20.3-latest": "v2.3.7",
+    "1.20.3-recommended": "v2.3.7",
+    "1.20.2-latest": "v2.3.7",
+    "1.20.2-recommended": "v2.3.7",
+    "1.20.1-latest": "v2.3.7",
+    "1.20.1-recommended": "v2.3.7",
+    "1.20-latest": "v2.3.7",
+    "1.20-recommended": "v2.3.7",
+    "1.19.4-latest": "v2.3.7",
+    "1.19.4-recommended": "v2.3.7",
+    "1.19.3-latest": "v2.3.7",
+    "1.19.3-recommended": "v2.3.7",
+    "1.19.2-latest": "v2.3.7",
+    "1.19.2-recommended": "v2.3.7",
+    "1.19.1-latest": "v2.3.7",
+    "1.19.1-recommended": "v2.3.7",
+    "1.19-latest": "v2.3.7",
+    "1.19-recommended": "v2.3.7",
+    "1.18.2-latest": "v2.3.7",
+    "1.18.2-recommended": "v2.3.7",
+    "1.18.1-latest": "v2.3.7",
+    "1.18.1-recommended": "v2.3.7",
+    "1.18-latest": "v2.3.7",
+    "1.18-recommended": "v2.3.7",
+    "1.17.1-latest": "v2.3.7",
+    "1.17.1-recommended": "v2.3.7",
+    "1.17-latest": "v2.3.7",
+    "1.17-recommended": "v2.3.7",
+    "1.16.5-latest": "v2.3.7",
+    "1.16.5-recommended": "v2.3.7",
+    "1.16.4-latest": "v2.3.7",
+    "1.16.4-recommended": "v2.3.7",
+    "1.16.3-latest": "v2.3.7",
+    "1.16.3-recommended": "v2.3.7",
+    "1.16.2-latest": "v2.3.7",
+    "1.16.2-recommended": "v2.3.7",
+    "1.16.1-latest": "v2.3.7",
+    "1.16.1-recommended": "v2.3.7",
+    "1.16-latest": "v2.3.7",
+    "1.16-recommended": "v2.3.7",
+    "1.15.2-latest": "v2.3.7",
+    "1.15.2-recommended": "v2.3.7",
+    "1.15.1-latest": "v2.3.7",
+    "1.15.1-recommended": "v2.3.7",
+    "1.15-latest": "v2.3.7",
+    "1.15-recommended": "v2.3.7",
+    "1.14.4-latest": "v2.3.7",
+    "1.14.4-recommended": "v2.3.7",
+    "1.14.3-latest": "v2.3.7",
+    "1.14.3-recommended": "v2.3.7",
+    "1.14.2-latest": "v2.3.7",
+    "1.14.2-recommended": "v2.3.7",
+    "1.14.1-latest": "v2.3.7",
+    "1.14.1-recommended": "v2.3.7",
+    "1.14-latest": "v2.3.7",
+    "1.14-recommended": "v2.3.7",
+    "1.13.2-latest": "v2.3.7",
+    "1.13.2-recommended": "v2.3.7",
+    "1.12.2-latest": "v2.3.7",
+    "1.12.2-recommended": "v2.3.7",
+    "1.11.2-latest": "v2.3.7",
+    "1.11.2-recommended": "v2.3.7",
+    "1.10.2-latest": "v2.3.7",
+    "1.10.2-recommended": "v2.3.7",
+    "1.9.4-latest": "v2.3.7",
+    "1.9.4-recommended": "v2.3.7",
+    "1.8.9-latest": "v2.3.7",
+    "1.8.9-recommended": "v2.3.7",
+    "1.7.10-latest": "v2.3.7",
+    "1.7.10-recommended": "v2.3.7",
+    "1.6.4-latest": "v2.3.7",
+    "1.6.4-recommended": "v2.3.7",
+    "1.5.2-latest": "v2.3.7",
+    "1.5.2-recommended": "v2.3.7",
+    "1.4.7-latest": "v2.3.7",
+    "1.4.7-recommended": "v2.3.7",
+    "1.3.2-latest": "v2.3.7",
+    "1.3.2-recommended": "v2.3.7",
+    "1.2.5-latest": "v2.3.7",
+    "1.2.5-recommended": "v2.3.7",
+    "1.1-latest": "v2.3.7",
+    "1.1-recommended": "v2.3.7",
+    "1.0-latest": "v2.3.7",
+    "1.0-recommended": "v2.3.7",
+    "b1.8.1-latest": "v2.3.7",
+    "b1.8.1-recommended": "v2.3.7",
+    "b1.7.3-latest": "v2.3.7",
+    "b1.7.3-recommended": "v2.3.7",
+    "b1.6.6-latest": "v2.3.7",
+    "b1.6.6-recommended": "v2.3.7",
+    "b1.5_01-latest": "v2.3.7",
+    "b1.5_01-recommended": "v2.3.7",
+    "b1.4_01-latest": "v2.3.7",
+    "b1.4_01-recommended": "v2.3.7",
+    "b1.3_01-latest": "v2.3.7",
+    "b1.3_01-recommended": "v2.3.7",
+    "b1.2_02-latest": "v2.3.7",
+    "b1.2_02-recommended": "v2.3.7",
+    "b1.1_02-latest": "v2.3.7",
+    "b1.1_02-recommended": "v2.3.7",
+    "a1.2.6-latest": "v2.3.7",
+    "a1.2.6-recommended": "v2.3.7",
+    "a1.1.2_01-latest": "v2.3.7",
+    "a1.1.2_01-recommended": "v2.3.7"
   },
   "1.20.4": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
     "v2.2.5": "Maintainer Update for v2.x Users; features dependency updates, bug fixes for UI and Server issues, and minor API refactors"
   },
   "1.20.3": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
     "v2.2.5": "Maintainer Update for v2.x Users; features dependency updates, bug fixes for UI and Server issues, and minor API refactors"
   },
   "1.20.2": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -131,6 +134,7 @@
     "v2.2.1": "Initial MC 1.20.2 and NeoForge Support, also including various bug-fixes and Quality-Of-Life tweaks to UI and Scripting Functions within the mod"
   },
   "1.20.1": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -145,6 +149,7 @@
     "v2.0.7": "Day-One MC 1.20 Support, in addition to Fixes for Legacy MC Biome/Dimension Regressions and adjustments to Module, Placeholder, and Join Request Logic to resolve some flaws"
   },
   "1.20": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -160,6 +165,7 @@
     "v2.0.0": "Complete Rewrite + Overhaul, including dozens of Fixes, Enhancements, and Features for ALL Users (See GitLab, CurseForge, or Modrinth for Changelog)"
   },
   "1.19.4": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -176,6 +182,7 @@
     "v2.0.0": "Complete Rewrite + Overhaul, including dozens of Fixes, Enhancements, and Features for ALL Users (See GitLab, CurseForge, or Modrinth for Changelog)"
   },
   "1.19.3": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -194,6 +201,7 @@
     "v1.9.5": "Performance Improvements + Regression Fixes for GSON/JUnixSocket Dependency Issues for v1.9.3 and v1.9.4 Users"
   },
   "1.19.2": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -221,6 +229,7 @@
     "v1.8.9": "Maintainer Patches for 2022 + Fixes for Client IDs above 18 characters"
   },
   "1.19.1": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -234,6 +243,7 @@
     "v1.8.9": "Maintainer Patches for 2022 + Fixes for Client IDs above 18 characters"
   },
   "1.19": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -262,6 +272,7 @@
     "v1.8.8": "Hotfixes for Critical Issues in v1.8.7, and fixes for Legacy Compatibility down to MC 1.0.0"
   },
   "1.18.2": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -290,6 +301,7 @@
     "v1.8.8": "Hotfixes for Critical Issues in v1.8.7, and fixes for Legacy Compatibility down to MC 1.0.0"
   },
   "1.18.1": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -318,6 +330,7 @@
     "v1.8.8": "Hotfixes for Critical Issues in v1.8.7, and fixes for Legacy Compatibility down to MC 1.0.0"
   },
   "1.18": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -331,6 +344,7 @@
     "v1.8.8": "Hotfixes for Critical Issues in v1.8.7, and fixes for Legacy Compatibility down to MC 1.0.0"
   },
   "1.17.1": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -362,6 +376,7 @@
     "v1.8.2": "Minor Fixes and Backend Updates for v1.8.x users"
   },
   "1.17": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -376,6 +391,7 @@
     "v1.8.1": "Hotfixes for v1.8.0 users, involving regression fixes for Join Requests and metadata updates"
   },
   "1.16.5": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -410,6 +426,7 @@
     "v1.7.6": "Bug-Fix and Quality of Life Improvements from v1.7.5; Also contains multiple compatibility and stability adjustments"
   },
   "1.16.4": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -425,6 +442,7 @@
     "v1.7.2": "Further improvements and stabilizing patches for v1.7.x; v1.7.x pipeline now stable"
   },
   "1.16.3": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -464,6 +482,7 @@
     "v1.6.8": "Hotfix patches and Improvements for v1.6.6 Users, also making final preparations for the v1.7.0 Update and the final LTS Update for the v1.6.x Pipeline"
   },
   "1.16.2": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -480,6 +499,7 @@
     "v1.6.8": "Hotfix patches and Improvements for v1.6.6 Users, also making final preparations for the v1.7.0 Update and the final LTS Update for the v1.6.x Pipeline"
   },
   "1.16.1": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -494,6 +514,7 @@
     "v1.6.6": "Quality-Of-Life and Bug Fix LTS Upgrade for v1.6.x Users, designed to fix long-standing issues and make preparations towards the v1.7.0 Milestone Update for 5 Million Downloads"
   },
   "1.16": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -506,6 +527,7 @@
     "v2.1.2": "Minor Patches for v2.1.0, including fixes for Translation File Regressions and re-introducing support for several MC Versions as well as native Quilt Support"
   },
   "1.15.2": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -549,6 +571,7 @@
     "v1.6.0": "Major Feature Update improving several aspects of the Mod as well as major bug fixes"
   },
   "1.15.1": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -563,6 +586,7 @@
     "v1.6.0": "Major Feature Update improving several aspects of the Mod as well as major bug fixes"
   },
   "1.15": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -577,6 +601,7 @@
     "v1.6.0": "Major Feature Update improving several aspects of the Mod as well as major bug fixes"
   },
   "1.14.4": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -622,6 +647,7 @@
     "v1.5.5": "Feature Update for v1.5.x Users, including 1.14.x Support, and many new Config Options and Bug Fixes"
   },
   "1.14.3": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -635,6 +661,7 @@
     "v1.5.5": "Feature Update for v1.5.x Users, including 1.14.x Support, and many new Config Options and Bug Fixes"
   },
   "1.14.2": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -648,6 +675,7 @@
     "v1.5.5": "Feature Update for v1.5.x Users, including 1.14.x Support, and many new Config Options and Bug Fixes"
   },
   "1.14.1": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -661,6 +689,7 @@
     "v1.5.5": "Feature Update for v1.5.x Users, including 1.14.x Support, and many new Config Options and Bug Fixes"
   },
   "1.14": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -674,6 +703,7 @@
     "v1.5.3.1": "HotFixes for v1.5.3, also including a new Accessibilities GUI to customize Tooltip Colors and soon set Fallback Values"
   },
   "1.13.2": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -725,6 +755,7 @@
     "v1.4.9.8": "Minor Bug and Stability Fixes for v1.4.x Users"
   },
   "1.12.2": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -782,6 +813,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.11.2": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -839,6 +871,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.10.2": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -896,6 +929,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.9.4": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -953,6 +987,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.8.9": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -1010,6 +1045,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.7.10": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -1067,6 +1103,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.6.4": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -1120,6 +1157,7 @@
     "v1.4.9": "Includes Bug Fixes and Join Requests and LAN Support"
   },
   "1.5.2": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -1168,6 +1206,7 @@
     "v1.5.2": "Major Bug-Fix Update for v1.5.x Users, also Including Java 1.6 Support, Better Compatibility between Versions, and Refactored Dimension and Per-GUI Systems"
   },
   "1.4.7": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -1216,6 +1255,7 @@
     "v1.5.2": "Major Bug-Fix Update for v1.5.x Users, also Including Java 1.6 Support, Better Compatibility between Versions, and Refactored Dimension and Per-GUI Systems"
   },
   "1.3.2": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -1264,6 +1304,7 @@
     "v1.5.2": "Major Bug-Fix Update for v1.5.x Users, also Including Java 1.6 Support, Better Compatibility between Versions, and Refactored Dimension and Per-GUI Systems"
   },
   "1.2.5": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -1311,6 +1352,7 @@
     "v1.5.3": "Bug-Fix and Quality of Life Update for v1.4.x and v1.5.x Users, including Performance Improvements and Better Legacy Compatibility"
   },
   "1.1": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -1358,6 +1400,7 @@
     "v1.5.3": "Bug-Fix and Quality of Life Update for v1.4.x and v1.5.x Users, including Performance Improvements and Better Legacy Compatibility"
   },
   "1.0": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -1386,6 +1429,7 @@
     "v1.8.8": "Hotfixes for Critical Issues in v1.8.7, and fixes for Legacy Compatibility down to MC 1.0.0"
   },
   "b1.8.1": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -1409,6 +1453,7 @@
     "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes"
   },
   "b1.7.3": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -1432,6 +1477,7 @@
     "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes"
   },
   "b1.6.6": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -1455,6 +1501,7 @@
     "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes"
   },
   "b1.5_01": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -1478,6 +1525,7 @@
     "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes"
   },
   "b1.4_01": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -1501,6 +1549,7 @@
     "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes"
   },
   "b1.3_01": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -1524,6 +1573,7 @@
     "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes"
   },
   "b1.2_02": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -1547,6 +1597,7 @@
     "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes"
   },
   "b1.1_02": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -1570,6 +1621,7 @@
     "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes"
   },
   "a1.2.6": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",
@@ -1593,6 +1645,7 @@
     "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes"
   },
   "a1.1.2_01": {
+    "v2.3.7": "Maintainer Update for v2.x Users; features dependency updates as well as UI Improvements and bug fixes",
     "v2.3.5": "Feature Update for v2.x Users; features dependency updates, new functions for placeholder customization, and UI refinements",
     "v2.3.0": "Major Backend Patches for v2.x Users; features dependency updates, Initial MC 1.20.5 Support, and misc. API fixes",
     "v2.2.6": "Maintainer Update for v2.x Users; features dependency updates, minor API updates, and Initial MC 1.20.3-1.20.4 Support",

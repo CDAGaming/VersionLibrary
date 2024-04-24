@@ -1,6 +1,8 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/craftpresence/files",
   "promos": {
+    "1.20.5-latest": "v2.3.9",
+    "1.20.5-recommended": "v2.3.9",
     "1.20.4-latest": "v2.3.8",
     "1.20.4-recommended": "v2.3.8",
     "1.20.3-latest": "v2.3.8",
@@ -107,6 +109,9 @@
     "a1.2.6-recommended": "v2.3.8",
     "a1.1.2_01-latest": "v2.3.8",
     "a1.1.2_01-recommended": "v2.3.8"
+  },
+  "1.20.5": {
+    "v2.3.9": "Quality-Of-Life Patches for v2.3.8 Users; featuring additional bug-fixes, UI Improvements, dependency updates, and polished support for MC 1.20.5"
   },
   "1.20.4": {
     "v2.3.8": "Quality-Of-Life Patches for v2.3.7 Users; featuring UI Improvements, dependency updates, and long standing bug-fixes",

@@ -1,6 +1,8 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/unilib/files",
   "promos": {
+    "1.21.1-latest": "v1.0.1",
+    "1.21.1-recommended": "v1.0.1",
     "1.21-latest": "v1.0.1",
     "1.21-recommended": "v1.0.1",
     "1.20.6-latest": "v1.0.1",
@@ -113,6 +115,10 @@
     "a1.2.6-recommended": "v1.0.1",
     "a1.1.2_01-latest": "v1.0.1",
     "a1.1.2_01-recommended": "v1.0.1"
+  },
+  "1.21.1": {
+    "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
+    "v1.0.0": "Initial Release"
   },
   "1.21": {
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",

@@ -1,346 +1,403 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/unilib/files",
   "promos": {
-    "1.21.1-latest": "v1.0.1",
-    "1.21.1-recommended": "v1.0.1",
-    "1.21-latest": "v1.0.1",
-    "1.21-recommended": "v1.0.1",
-    "1.20.6-latest": "v1.0.1",
-    "1.20.6-recommended": "v1.0.1",
-    "1.20.5-latest": "v1.0.1",
-    "1.20.5-recommended": "v1.0.1",
-    "1.20.4-latest": "v1.0.1",
-    "1.20.4-recommended": "v1.0.1",
-    "1.20.3-latest": "v1.0.1",
-    "1.20.3-recommended": "v1.0.1",
-    "1.20.2-latest": "v1.0.1",
-    "1.20.2-recommended": "v1.0.1",
-    "1.20.1-latest": "v1.0.1",
-    "1.20.1-recommended": "v1.0.1",
-    "1.20-latest": "v1.0.1",
-    "1.20-recommended": "v1.0.1",
-    "1.19.4-latest": "v1.0.1",
-    "1.19.4-recommended": "v1.0.1",
-    "1.19.3-latest": "v1.0.1",
-    "1.19.3-recommended": "v1.0.1",
-    "1.19.2-latest": "v1.0.1",
-    "1.19.2-recommended": "v1.0.1",
-    "1.19.1-latest": "v1.0.1",
-    "1.19.1-recommended": "v1.0.1",
-    "1.19-latest": "v1.0.1",
-    "1.19-recommended": "v1.0.1",
-    "1.18.2-latest": "v1.0.1",
-    "1.18.2-recommended": "v1.0.1",
-    "1.18.1-latest": "v1.0.1",
-    "1.18.1-recommended": "v1.0.1",
-    "1.18-latest": "v1.0.1",
-    "1.18-recommended": "v1.0.1",
-    "1.17.1-latest": "v1.0.1",
-    "1.17.1-recommended": "v1.0.1",
-    "1.17-latest": "v1.0.1",
-    "1.17-recommended": "v1.0.1",
-    "1.16.5-latest": "v1.0.1",
-    "1.16.5-recommended": "v1.0.1",
-    "1.16.4-latest": "v1.0.1",
-    "1.16.4-recommended": "v1.0.1",
-    "1.16.3-latest": "v1.0.1",
-    "1.16.3-recommended": "v1.0.1",
-    "1.16.2-latest": "v1.0.1",
-    "1.16.2-recommended": "v1.0.1",
-    "1.16.1-latest": "v1.0.1",
-    "1.16.1-recommended": "v1.0.1",
-    "1.16-latest": "v1.0.1",
-    "1.16-recommended": "v1.0.1",
-    "1.15.2-latest": "v1.0.1",
-    "1.15.2-recommended": "v1.0.1",
-    "1.15.1-latest": "v1.0.1",
-    "1.15.1-recommended": "v1.0.1",
-    "1.15-latest": "v1.0.1",
-    "1.15-recommended": "v1.0.1",
-    "1.14.4-latest": "v1.0.1",
-    "1.14.4-recommended": "v1.0.1",
-    "1.14.3-latest": "v1.0.1",
-    "1.14.3-recommended": "v1.0.1",
-    "1.14.2-latest": "v1.0.1",
-    "1.14.2-recommended": "v1.0.1",
-    "1.14.1-latest": "v1.0.1",
-    "1.14.1-recommended": "v1.0.1",
-    "1.14-latest": "v1.0.1",
-    "1.14-recommended": "v1.0.1",
-    "1.13.2-latest": "v1.0.1",
-    "1.13.2-recommended": "v1.0.1",
-    "1.12.2-latest": "v1.0.1",
-    "1.12.2-recommended": "v1.0.1",
-    "1.11.2-latest": "v1.0.1",
-    "1.11.2-recommended": "v1.0.1",
-    "1.10.2-latest": "v1.0.1",
-    "1.10.2-recommended": "v1.0.1",
-    "1.9.4-latest": "v1.0.1",
-    "1.9.4-recommended": "v1.0.1",
-    "1.8.9-latest": "v1.0.1",
-    "1.8.9-recommended": "v1.0.1",
-    "1.7.10-latest": "v1.0.1",
-    "1.7.10-recommended": "v1.0.1",
-    "1.6.4-latest": "v1.0.1",
-    "1.6.4-recommended": "v1.0.1",
-    "1.5.2-latest": "v1.0.1",
-    "1.5.2-recommended": "v1.0.1",
-    "1.4.7-latest": "v1.0.1",
-    "1.4.7-recommended": "v1.0.1",
-    "1.3.2-latest": "v1.0.1",
-    "1.3.2-recommended": "v1.0.1",
-    "1.2.5-latest": "v1.0.1",
-    "1.2.5-recommended": "v1.0.1",
-    "1.1-latest": "v1.0.1",
-    "1.1-recommended": "v1.0.1",
-    "1.0-latest": "v1.0.1",
-    "1.0-recommended": "v1.0.1",
-    "b1.8.1-latest": "v1.0.1",
-    "b1.8.1-recommended": "v1.0.1",
-    "b1.7.3-latest": "v1.0.1",
-    "b1.7.3-recommended": "v1.0.1",
-    "b1.6.6-latest": "v1.0.1",
-    "b1.6.6-recommended": "v1.0.1",
-    "b1.5_01-latest": "v1.0.1",
-    "b1.5_01-recommended": "v1.0.1",
-    "b1.4_01-latest": "v1.0.1",
-    "b1.4_01-recommended": "v1.0.1",
-    "b1.3_01-latest": "v1.0.1",
-    "b1.3_01-recommended": "v1.0.1",
-    "b1.2_02-latest": "v1.0.1",
-    "b1.2_02-recommended": "v1.0.1",
-    "b1.1_02-latest": "v1.0.1",
-    "b1.1_02-recommended": "v1.0.1",
-    "a1.2.6-latest": "v1.0.1",
-    "a1.2.6-recommended": "v1.0.1",
-    "a1.1.2_01-latest": "v1.0.1",
-    "a1.1.2_01-recommended": "v1.0.1"
+    "1.21.1-latest": "v1.0.2",
+    "1.21.1-recommended": "v1.0.2",
+    "1.21-latest": "v1.0.2",
+    "1.21-recommended": "v1.0.2",
+    "1.20.6-latest": "v1.0.2",
+    "1.20.6-recommended": "v1.0.2",
+    "1.20.5-latest": "v1.0.2",
+    "1.20.5-recommended": "v1.0.2",
+    "1.20.4-latest": "v1.0.2",
+    "1.20.4-recommended": "v1.0.2",
+    "1.20.3-latest": "v1.0.2",
+    "1.20.3-recommended": "v1.0.2",
+    "1.20.2-latest": "v1.0.2",
+    "1.20.2-recommended": "v1.0.2",
+    "1.20.1-latest": "v1.0.2",
+    "1.20.1-recommended": "v1.0.2",
+    "1.20-latest": "v1.0.2",
+    "1.20-recommended": "v1.0.2",
+    "1.19.4-latest": "v1.0.2",
+    "1.19.4-recommended": "v1.0.2",
+    "1.19.3-latest": "v1.0.2",
+    "1.19.3-recommended": "v1.0.2",
+    "1.19.2-latest": "v1.0.2",
+    "1.19.2-recommended": "v1.0.2",
+    "1.19.1-latest": "v1.0.2",
+    "1.19.1-recommended": "v1.0.2",
+    "1.19-latest": "v1.0.2",
+    "1.19-recommended": "v1.0.2",
+    "1.18.2-latest": "v1.0.2",
+    "1.18.2-recommended": "v1.0.2",
+    "1.18.1-latest": "v1.0.2",
+    "1.18.1-recommended": "v1.0.2",
+    "1.18-latest": "v1.0.2",
+    "1.18-recommended": "v1.0.2",
+    "1.17.1-latest": "v1.0.2",
+    "1.17.1-recommended": "v1.0.2",
+    "1.17-latest": "v1.0.2",
+    "1.17-recommended": "v1.0.2",
+    "1.16.5-latest": "v1.0.2",
+    "1.16.5-recommended": "v1.0.2",
+    "1.16.4-latest": "v1.0.2",
+    "1.16.4-recommended": "v1.0.2",
+    "1.16.3-latest": "v1.0.2",
+    "1.16.3-recommended": "v1.0.2",
+    "1.16.2-latest": "v1.0.2",
+    "1.16.2-recommended": "v1.0.2",
+    "1.16.1-latest": "v1.0.2",
+    "1.16.1-recommended": "v1.0.2",
+    "1.16-latest": "v1.0.2",
+    "1.16-recommended": "v1.0.2",
+    "1.15.2-latest": "v1.0.2",
+    "1.15.2-recommended": "v1.0.2",
+    "1.15.1-latest": "v1.0.2",
+    "1.15.1-recommended": "v1.0.2",
+    "1.15-latest": "v1.0.2",
+    "1.15-recommended": "v1.0.2",
+    "1.14.4-latest": "v1.0.2",
+    "1.14.4-recommended": "v1.0.2",
+    "1.14.3-latest": "v1.0.2",
+    "1.14.3-recommended": "v1.0.2",
+    "1.14.2-latest": "v1.0.2",
+    "1.14.2-recommended": "v1.0.2",
+    "1.14.1-latest": "v1.0.2",
+    "1.14.1-recommended": "v1.0.2",
+    "1.14-latest": "v1.0.2",
+    "1.14-recommended": "v1.0.2",
+    "1.13.2-latest": "v1.0.2",
+    "1.13.2-recommended": "v1.0.2",
+    "1.12.2-latest": "v1.0.2",
+    "1.12.2-recommended": "v1.0.2",
+    "1.11.2-latest": "v1.0.2",
+    "1.11.2-recommended": "v1.0.2",
+    "1.10.2-latest": "v1.0.2",
+    "1.10.2-recommended": "v1.0.2",
+    "1.9.4-latest": "v1.0.2",
+    "1.9.4-recommended": "v1.0.2",
+    "1.8.9-latest": "v1.0.2",
+    "1.8.9-recommended": "v1.0.2",
+    "1.7.10-latest": "v1.0.2",
+    "1.7.10-recommended": "v1.0.2",
+    "1.6.4-latest": "v1.0.2",
+    "1.6.4-recommended": "v1.0.2",
+    "1.5.2-latest": "v1.0.2",
+    "1.5.2-recommended": "v1.0.2",
+    "1.4.7-latest": "v1.0.2",
+    "1.4.7-recommended": "v1.0.2",
+    "1.3.2-latest": "v1.0.2",
+    "1.3.2-recommended": "v1.0.2",
+    "1.2.5-latest": "v1.0.2",
+    "1.2.5-recommended": "v1.0.2",
+    "1.1-latest": "v1.0.2",
+    "1.1-recommended": "v1.0.2",
+    "1.0-latest": "v1.0.2",
+    "1.0-recommended": "v1.0.2",
+    "b1.8.1-latest": "v1.0.2",
+    "b1.8.1-recommended": "v1.0.2",
+    "b1.7.3-latest": "v1.0.2",
+    "b1.7.3-recommended": "v1.0.2",
+    "b1.6.6-latest": "v1.0.2",
+    "b1.6.6-recommended": "v1.0.2",
+    "b1.5_01-latest": "v1.0.2",
+    "b1.5_01-recommended": "v1.0.2",
+    "b1.4_01-latest": "v1.0.2",
+    "b1.4_01-recommended": "v1.0.2",
+    "b1.3_01-latest": "v1.0.2",
+    "b1.3_01-recommended": "v1.0.2",
+    "b1.2_02-latest": "v1.0.2",
+    "b1.2_02-recommended": "v1.0.2",
+    "b1.1_02-latest": "v1.0.2",
+    "b1.1_02-recommended": "v1.0.2",
+    "a1.2.6-latest": "v1.0.2",
+    "a1.2.6-recommended": "v1.0.2",
+    "a1.1.2_01-latest": "v1.0.2",
+    "a1.1.2_01-recommended": "v1.0.2"
   },
   "1.21.1": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.21": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.20.6": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.20.5": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.20.4": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.20.3": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.20.2": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.20.1": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.20": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.19.4": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.19.3": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.19.2": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.19.1": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.19": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.18.2": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.18.1": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.18": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.17.1": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.17": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.16.5": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.16.4": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.16.3": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.16.2": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.16.1": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.16": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.15.2": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.15.1": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.15": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.14.4": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.14.3": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.14.2": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.14.1": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.14": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.13.2": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.12.2": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.11.2": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.10.2": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.9.4": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.8.9": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.7.10": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.6.4": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.5.2": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.4.7": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.3.2": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.2.5": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.1": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "1.0": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "b1.8.1": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "b1.7.3": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "b1.6.6": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "b1.5_01": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "b1.4_01": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "b1.3_01": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "b1.2_02": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "b1.1_02": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "a1.2.6": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   },
   "a1.1.2_01": {
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements",
     "v1.0.1": "Day-One Hotfix release, addressing issues related to mod conflicts from shadowed dependencies",
     "v1.0.0": "Initial Release"
   }

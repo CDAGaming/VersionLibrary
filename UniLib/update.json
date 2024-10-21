@@ -1,6 +1,8 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/unilib/files",
   "promos": {
+    "1.21.2-latest": "v1.0.3",
+    "1.21.2-recommended": "v1.0.3",
     "1.21.1-latest": "v1.0.3",
     "1.21.1-recommended": "v1.0.3",
     "1.21-latest": "v1.0.3",
@@ -115,6 +117,10 @@
     "a1.2.6-recommended": "v1.0.3",
     "a1.1.2_01-latest": "v1.0.3",
     "a1.1.2_01-recommended": "v1.0.3"
+  },
+  "1.21.2": {
+    "v1.0.3": "Minor Feature Updates for v1.0.x users, featuring dependency updates, and support for deprecated.json Translation APIs",
+    "v1.0.2": "Quality-Of-Live Updates for v1.0.x users, featuring dependency updates, packaging improvements, and UI API refinements"
   },
   "1.21.1": {
     "v1.0.3": "Minor Feature Updates for v1.0.x users, featuring dependency updates, and support for deprecated.json Translation APIs",

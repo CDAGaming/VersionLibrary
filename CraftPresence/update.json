@@ -1,6 +1,8 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/craftpresence/files",
   "promos": {
+    "1.21.2-latest": "v2.5.1",
+    "1.21.2-recommended": "v2.5.1",
     "1.21.1-latest": "v2.5.1",
     "1.21.1-recommended": "v2.5.1",
     "1.21-latest": "v2.5.1",
@@ -115,6 +117,9 @@
     "a1.2.6-recommended": "v2.5.1",
     "a1.1.2_01-latest": "v2.5.1",
     "a1.1.2_01-recommended": "v2.5.1"
+  },
+  "1.21.2": {
+    "v2.5.1": "(Required: UniLib v1.0.1+) Minor Feature Update for v2.x Users; featuring dependency updates as well as bug fixes for placeholder issues"
   },
   "1.21.1": {
     "v2.5.1": "(Required: UniLib v1.0.1+) Minor Feature Update for v2.x Users; featuring dependency updates as well as bug fixes for placeholder issues",

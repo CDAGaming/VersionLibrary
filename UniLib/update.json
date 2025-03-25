@@ -1,6 +1,8 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/unilib/files",
   "promos": {
+    "1.21.5-latest": "v1.0.5",
+    "1.21.5-recommended": "v1.0.5",
     "1.21.4-latest": "v1.0.5",
     "1.21.4-recommended": "v1.0.5",
     "1.21.3-latest": "v1.0.5",
@@ -121,6 +123,9 @@
     "a1.2.6-recommended": "v1.0.5",
     "a1.1.2_01-latest": "v1.0.5",
     "a1.1.2_01-recommended": "v1.0.5"
+  },
+  "1.21.5": {
+    "v1.0.5": "Minor Feature and Maintainer Updates for v1.0.x users, featuring dependency updates, as well as fixes for non-applet and Legacy Fabric users"
   },
   "1.21.4": {
     "v1.0.5": "Minor Feature and Maintainer Updates for v1.0.x users, featuring dependency updates, as well as fixes for non-applet and Legacy Fabric users",

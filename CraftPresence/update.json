@@ -1,6 +1,8 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/craftpresence/files",
   "promos": {
+    "1.21.5-latest": "v2.5.3",
+    "1.21.5-recommended": "v2.5.3",
     "1.21.4-latest": "v2.5.3",
     "1.21.4-recommended": "v2.5.3",
     "1.21.3-latest": "v2.5.3",
@@ -121,6 +123,9 @@
     "a1.2.6-recommended": "v2.5.3",
     "a1.1.2_01-latest": "v2.5.3",
     "a1.1.2_01-recommended": "v2.5.3"
+  },
+  "1.21.5": {
+    "v2.5.3": "(Required: UniLib v1.0.1+) Maintainer Update for v2.x Users; featuring dependency updates and bug fixes for config and Babric issues, as well as for the Server Module in MC 1.2.5 and below"
   },
   "1.21.4": {
     "v2.5.3": "(Required: UniLib v1.0.1+) Maintainer Update for v2.x Users; featuring dependency updates and bug fixes for config and Babric issues, as well as for the Server Module in MC 1.2.5 and below",

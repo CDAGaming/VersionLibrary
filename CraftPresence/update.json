@@ -1,6 +1,10 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/craftpresence/files",
   "promos": {
+    "1.21.8-latest": "v2.6.1",
+    "1.21.8-recommended": "v2.6.1",
+    "1.21.7-latest": "v2.6.1",
+    "1.21.7-recommended": "v2.6.1",
     "1.21.6-latest": "v2.6.1",
     "1.21.6-recommended": "v2.6.1",
     "1.21.5-latest": "v2.6.1",
@@ -125,6 +129,12 @@
     "a1.2.6-recommended": "v2.6.1",
     "a1.1.2_01-latest": "v2.6.1",
     "a1.1.2_01-recommended": "v2.6.1"
+  },
+  "1.21.8": {
+    "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render"
+  },
+  "1.21.7": {
+    "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render"
   },
   "1.21.6": {
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render"

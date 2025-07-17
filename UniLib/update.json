@@ -1,6 +1,10 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/unilib/files",
   "promos": {
+    "1.21.8-latest": "v1.1.0",
+    "1.21.8-recommended": "v1.1.0",
+    "1.21.7-latest": "v1.1.0",
+    "1.21.7-recommended": "v1.1.0",
     "1.21.6-latest": "v1.1.0",
     "1.21.6-recommended": "v1.1.0",
     "1.21.5-latest": "v1.1.0",
@@ -125,6 +129,12 @@
     "a1.2.6-recommended": "v1.1.0",
     "a1.1.2_01-latest": "v1.1.0",
     "a1.1.2_01-recommended": "v1.1.0"
+  },
+  "1.21.8": {
+    "v1.1.0": "Major Feature Update for v1.x users, featuring dependency updates, API changes for Selector GUIs, and fixes several crashes related to early-loading and NeoForge API changes"
+  },
+  "1.21.7": {
+    "v1.1.0": "Major Feature Update for v1.x users, featuring dependency updates, API changes for Selector GUIs, and fixes several crashes related to early-loading and NeoForge API changes"
   },
   "1.21.6": {
     "v1.1.0": "Major Feature Update for v1.x users, featuring dependency updates, API changes for Selector GUIs, and fixes several crashes related to early-loading and NeoForge API changes"

@@ -1,6 +1,8 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/craftpresence/files",
   "promos": {
+    "1.21.9-latest": "v2.6.2",
+    "1.21.9-recommended": "v2.6.2",
     "1.21.8-latest": "v2.6.2",
     "1.21.8-recommended": "v2.6.2",
     "1.21.7-latest": "v2.6.2",
@@ -129,6 +131,9 @@
     "a1.2.6-recommended": "v2.6.2",
     "a1.1.2_01-latest": "v2.6.2",
     "a1.1.2_01-recommended": "v2.6.2"
+  },
+  "1.21.9": {
+    "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric"
   },
   "1.21.8": {
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",

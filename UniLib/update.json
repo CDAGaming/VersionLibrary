@@ -1,6 +1,8 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/unilib/files",
   "promos": {
+    "1.21.9-latest": "v1.1.1",
+    "1.21.9-recommended": "v1.1.1",
     "1.21.8-latest": "v1.1.1",
     "1.21.8-recommended": "v1.1.1",
     "1.21.7-latest": "v1.1.1",
@@ -129,6 +131,9 @@
     "a1.2.6-recommended": "v1.1.1",
     "a1.1.2_01-latest": "v1.1.1",
     "a1.1.2_01-recommended": "v1.1.1"
+  },
+  "1.21.9": {
+    "v1.1.1": "Maintainer Update for v1.1.x users, featuring dependency updates, bug-fixes for Neoforge 1.21.6+ and ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric"
   },
   "1.21.8": {
     "v1.1.1": "Maintainer Update for v1.1.x users, featuring dependency updates, bug-fixes for Neoforge 1.21.6+ and ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",

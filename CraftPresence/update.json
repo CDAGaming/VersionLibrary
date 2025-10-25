@@ -1,158 +1,164 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/craftpresence/files",
   "promos": {
-    "1.21.10-latest": "v2.6.2",
-    "1.21.10-recommended": "v2.6.2",
-    "1.21.9-latest": "v2.6.2",
-    "1.21.9-recommended": "v2.6.2",
-    "1.21.8-latest": "v2.6.2",
-    "1.21.8-recommended": "v2.6.2",
-    "1.21.7-latest": "v2.6.2",
-    "1.21.7-recommended": "v2.6.2",
-    "1.21.6-latest": "v2.6.2",
-    "1.21.6-recommended": "v2.6.2",
-    "1.21.5-latest": "v2.6.2",
-    "1.21.5-recommended": "v2.6.2",
-    "1.21.4-latest": "v2.6.2",
-    "1.21.4-recommended": "v2.6.2",
-    "1.21.3-latest": "v2.6.2",
-    "1.21.3-recommended": "v2.6.2",
-    "1.21.2-latest": "v2.6.2",
-    "1.21.2-recommended": "v2.6.2",
-    "1.21.1-latest": "v2.6.2",
-    "1.21.1-recommended": "v2.6.2",
-    "1.21-latest": "v2.6.2",
-    "1.21-recommended": "v2.6.2",
-    "1.20.6-latest": "v2.6.2",
-    "1.20.6-recommended": "v2.6.2",
-    "1.20.5-latest": "v2.6.2",
-    "1.20.5-recommended": "v2.6.2",
-    "1.20.4-latest": "v2.6.2",
-    "1.20.4-recommended": "v2.6.2",
-    "1.20.3-latest": "v2.6.2",
-    "1.20.3-recommended": "v2.6.2",
-    "1.20.2-latest": "v2.6.2",
-    "1.20.2-recommended": "v2.6.2",
-    "1.20.1-latest": "v2.6.2",
-    "1.20.1-recommended": "v2.6.2",
-    "1.20-latest": "v2.6.2",
-    "1.20-recommended": "v2.6.2",
-    "1.19.4-latest": "v2.6.2",
-    "1.19.4-recommended": "v2.6.2",
-    "1.19.3-latest": "v2.6.2",
-    "1.19.3-recommended": "v2.6.2",
-    "1.19.2-latest": "v2.6.2",
-    "1.19.2-recommended": "v2.6.2",
-    "1.19.1-latest": "v2.6.2",
-    "1.19.1-recommended": "v2.6.2",
-    "1.19-latest": "v2.6.2",
-    "1.19-recommended": "v2.6.2",
-    "1.18.2-latest": "v2.6.2",
-    "1.18.2-recommended": "v2.6.2",
-    "1.18.1-latest": "v2.6.2",
-    "1.18.1-recommended": "v2.6.2",
-    "1.18-latest": "v2.6.2",
-    "1.18-recommended": "v2.6.2",
-    "1.17.1-latest": "v2.6.2",
-    "1.17.1-recommended": "v2.6.2",
-    "1.17-latest": "v2.6.2",
-    "1.17-recommended": "v2.6.2",
-    "1.16.5-latest": "v2.6.2",
-    "1.16.5-recommended": "v2.6.2",
-    "1.16.4-latest": "v2.6.2",
-    "1.16.4-recommended": "v2.6.2",
-    "1.16.3-latest": "v2.6.2",
-    "1.16.3-recommended": "v2.6.2",
-    "1.16.2-latest": "v2.6.2",
-    "1.16.2-recommended": "v2.6.2",
-    "1.16.1-latest": "v2.6.2",
-    "1.16.1-recommended": "v2.6.2",
-    "1.16-latest": "v2.6.2",
-    "1.16-recommended": "v2.6.2",
-    "1.15.2-latest": "v2.6.2",
-    "1.15.2-recommended": "v2.6.2",
-    "1.15.1-latest": "v2.6.2",
-    "1.15.1-recommended": "v2.6.2",
-    "1.15-latest": "v2.6.2",
-    "1.15-recommended": "v2.6.2",
-    "1.14.4-latest": "v2.6.2",
-    "1.14.4-recommended": "v2.6.2",
-    "1.14.3-latest": "v2.6.2",
-    "1.14.3-recommended": "v2.6.2",
-    "1.14.2-latest": "v2.6.2",
-    "1.14.2-recommended": "v2.6.2",
-    "1.14.1-latest": "v2.6.2",
-    "1.14.1-recommended": "v2.6.2",
-    "1.14-latest": "v2.6.2",
-    "1.14-recommended": "v2.6.2",
-    "1.13.2-latest": "v2.6.2",
-    "1.13.2-recommended": "v2.6.2",
-    "1.12.2-latest": "v2.6.2",
-    "1.12.2-recommended": "v2.6.2",
-    "1.11.2-latest": "v2.6.2",
-    "1.11.2-recommended": "v2.6.2",
-    "1.10.2-latest": "v2.6.2",
-    "1.10.2-recommended": "v2.6.2",
-    "1.9.4-latest": "v2.6.2",
-    "1.9.4-recommended": "v2.6.2",
-    "1.8.9-latest": "v2.6.2",
-    "1.8.9-recommended": "v2.6.2",
-    "1.7.10-latest": "v2.6.2",
-    "1.7.10-recommended": "v2.6.2",
-    "1.6.4-latest": "v2.6.2",
-    "1.6.4-recommended": "v2.6.2",
-    "1.5.2-latest": "v2.6.2",
-    "1.5.2-recommended": "v2.6.2",
-    "1.4.7-latest": "v2.6.2",
-    "1.4.7-recommended": "v2.6.2",
-    "1.3.2-latest": "v2.6.2",
-    "1.3.2-recommended": "v2.6.2",
-    "1.2.5-latest": "v2.6.2",
-    "1.2.5-recommended": "v2.6.2",
-    "1.1-latest": "v2.6.2",
-    "1.1-recommended": "v2.6.2",
-    "1.0-latest": "v2.6.2",
-    "1.0-recommended": "v2.6.2",
-    "b1.8.1-latest": "v2.6.2",
-    "b1.8.1-recommended": "v2.6.2",
-    "b1.7.3-latest": "v2.6.2",
-    "b1.7.3-recommended": "v2.6.2",
-    "b1.6.6-latest": "v2.6.2",
-    "b1.6.6-recommended": "v2.6.2",
-    "b1.5_01-latest": "v2.6.2",
-    "b1.5_01-recommended": "v2.6.2",
-    "b1.4_01-latest": "v2.6.2",
-    "b1.4_01-recommended": "v2.6.2",
-    "b1.3_01-latest": "v2.6.2",
-    "b1.3_01-recommended": "v2.6.2",
-    "b1.2_02-latest": "v2.6.2",
-    "b1.2_02-recommended": "v2.6.2",
-    "b1.1_02-latest": "v2.6.2",
-    "b1.1_02-recommended": "v2.6.2",
-    "a1.2.6-latest": "v2.6.2",
-    "a1.2.6-recommended": "v2.6.2",
-    "a1.1.2_01-latest": "v2.6.2",
-    "a1.1.2_01-recommended": "v2.6.2"
+    "1.21.10-latest": "v2.7.0",
+    "1.21.10-recommended": "v2.7.0",
+    "1.21.9-latest": "v2.7.0",
+    "1.21.9-recommended": "v2.7.0",
+    "1.21.8-latest": "v2.7.0",
+    "1.21.8-recommended": "v2.7.0",
+    "1.21.7-latest": "v2.7.0",
+    "1.21.7-recommended": "v2.7.0",
+    "1.21.6-latest": "v2.7.0",
+    "1.21.6-recommended": "v2.7.0",
+    "1.21.5-latest": "v2.7.0",
+    "1.21.5-recommended": "v2.7.0",
+    "1.21.4-latest": "v2.7.0",
+    "1.21.4-recommended": "v2.7.0",
+    "1.21.3-latest": "v2.7.0",
+    "1.21.3-recommended": "v2.7.0",
+    "1.21.2-latest": "v2.7.0",
+    "1.21.2-recommended": "v2.7.0",
+    "1.21.1-latest": "v2.7.0",
+    "1.21.1-recommended": "v2.7.0",
+    "1.21-latest": "v2.7.0",
+    "1.21-recommended": "v2.7.0",
+    "1.20.6-latest": "v2.7.0",
+    "1.20.6-recommended": "v2.7.0",
+    "1.20.5-latest": "v2.7.0",
+    "1.20.5-recommended": "v2.7.0",
+    "1.20.4-latest": "v2.7.0",
+    "1.20.4-recommended": "v2.7.0",
+    "1.20.3-latest": "v2.7.0",
+    "1.20.3-recommended": "v2.7.0",
+    "1.20.2-latest": "v2.7.0",
+    "1.20.2-recommended": "v2.7.0",
+    "1.20.1-latest": "v2.7.0",
+    "1.20.1-recommended": "v2.7.0",
+    "1.20-latest": "v2.7.0",
+    "1.20-recommended": "v2.7.0",
+    "1.19.4-latest": "v2.7.0",
+    "1.19.4-recommended": "v2.7.0",
+    "1.19.3-latest": "v2.7.0",
+    "1.19.3-recommended": "v2.7.0",
+    "1.19.2-latest": "v2.7.0",
+    "1.19.2-recommended": "v2.7.0",
+    "1.19.1-latest": "v2.7.0",
+    "1.19.1-recommended": "v2.7.0",
+    "1.19-latest": "v2.7.0",
+    "1.19-recommended": "v2.7.0",
+    "1.18.2-latest": "v2.7.0",
+    "1.18.2-recommended": "v2.7.0",
+    "1.18.1-latest": "v2.7.0",
+    "1.18.1-recommended": "v2.7.0",
+    "1.18-latest": "v2.7.0",
+    "1.18-recommended": "v2.7.0",
+    "1.17.1-latest": "v2.7.0",
+    "1.17.1-recommended": "v2.7.0",
+    "1.17-latest": "v2.7.0",
+    "1.17-recommended": "v2.7.0",
+    "1.16.5-latest": "v2.7.0",
+    "1.16.5-recommended": "v2.7.0",
+    "1.16.4-latest": "v2.7.0",
+    "1.16.4-recommended": "v2.7.0",
+    "1.16.3-latest": "v2.7.0",
+    "1.16.3-recommended": "v2.7.0",
+    "1.16.2-latest": "v2.7.0",
+    "1.16.2-recommended": "v2.7.0",
+    "1.16.1-latest": "v2.7.0",
+    "1.16.1-recommended": "v2.7.0",
+    "1.16-latest": "v2.7.0",
+    "1.16-recommended": "v2.7.0",
+    "1.15.2-latest": "v2.7.0",
+    "1.15.2-recommended": "v2.7.0",
+    "1.15.1-latest": "v2.7.0",
+    "1.15.1-recommended": "v2.7.0",
+    "1.15-latest": "v2.7.0",
+    "1.15-recommended": "v2.7.0",
+    "1.14.4-latest": "v2.7.0",
+    "1.14.4-recommended": "v2.7.0",
+    "1.14.3-latest": "v2.7.0",
+    "1.14.3-recommended": "v2.7.0",
+    "1.14.2-latest": "v2.7.0",
+    "1.14.2-recommended": "v2.7.0",
+    "1.14.1-latest": "v2.7.0",
+    "1.14.1-recommended": "v2.7.0",
+    "1.14-latest": "v2.7.0",
+    "1.14-recommended": "v2.7.0",
+    "1.13.2-latest": "v2.7.0",
+    "1.13.2-recommended": "v2.7.0",
+    "1.12.2-latest": "v2.7.0",
+    "1.12.2-recommended": "v2.7.0",
+    "1.11.2-latest": "v2.7.0",
+    "1.11.2-recommended": "v2.7.0",
+    "1.10.2-latest": "v2.7.0",
+    "1.10.2-recommended": "v2.7.0",
+    "1.9.4-latest": "v2.7.0",
+    "1.9.4-recommended": "v2.7.0",
+    "1.8.9-latest": "v2.7.0",
+    "1.8.9-recommended": "v2.7.0",
+    "1.7.10-latest": "v2.7.0",
+    "1.7.10-recommended": "v2.7.0",
+    "1.6.4-latest": "v2.7.0",
+    "1.6.4-recommended": "v2.7.0",
+    "1.5.2-latest": "v2.7.0",
+    "1.5.2-recommended": "v2.7.0",
+    "1.4.7-latest": "v2.7.0",
+    "1.4.7-recommended": "v2.7.0",
+    "1.3.2-latest": "v2.7.0",
+    "1.3.2-recommended": "v2.7.0",
+    "1.2.5-latest": "v2.7.0",
+    "1.2.5-recommended": "v2.7.0",
+    "1.1-latest": "v2.7.0",
+    "1.1-recommended": "v2.7.0",
+    "1.0-latest": "v2.7.0",
+    "1.0-recommended": "v2.7.0",
+    "b1.8.1-latest": "v2.7.0",
+    "b1.8.1-recommended": "v2.7.0",
+    "b1.7.3-latest": "v2.7.0",
+    "b1.7.3-recommended": "v2.7.0",
+    "b1.6.6-latest": "v2.7.0",
+    "b1.6.6-recommended": "v2.7.0",
+    "b1.5_01-latest": "v2.7.0",
+    "b1.5_01-recommended": "v2.7.0",
+    "b1.4_01-latest": "v2.7.0",
+    "b1.4_01-recommended": "v2.7.0",
+    "b1.3_01-latest": "v2.7.0",
+    "b1.3_01-recommended": "v2.7.0",
+    "b1.2_02-latest": "v2.7.0",
+    "b1.2_02-recommended": "v2.7.0",
+    "b1.1_02-latest": "v2.7.0",
+    "b1.1_02-recommended": "v2.7.0",
+    "a1.2.6-latest": "v2.7.0",
+    "a1.2.6-recommended": "v2.7.0",
+    "a1.1.2_01-latest": "v2.7.0",
+    "a1.1.2_01-recommended": "v2.7.0"
   },
   "1.21.10": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric"
   },
   "1.21.9": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric"
   },
   "1.21.8": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render"
   },
   "1.21.7": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render"
   },
   "1.21.6": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render"
   },
   "1.21.5": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -161,6 +167,7 @@
     "v2.5.3": "(Required: UniLib v1.0.1+) Maintainer Update for v2.x Users; featuring dependency updates and bug fixes for config and Babric issues, as well as for the Server Module in MC 1.2.5 and below"
   },
   "1.21.4": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -170,6 +177,7 @@
     "v2.5.2": "(Required: UniLib v1.0.1+) Minor Feature Update for v2.x Users; featuring dependency updates as well as bug fixes for the Server Module in MC 1.2.5 and below"
   },
   "1.21.3": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -180,6 +188,7 @@
     "v2.5.1": "(Required: UniLib v1.0.1+) Minor Feature Update for v2.x Users; featuring dependency updates as well as bug fixes for placeholder issues"
   },
   "1.21.2": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -190,6 +199,7 @@
     "v2.5.1": "(Required: UniLib v1.0.1+) Minor Feature Update for v2.x Users; featuring dependency updates as well as bug fixes for placeholder issues"
   },
   "1.21.1": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -204,6 +214,7 @@
     "v2.4.0": "Major Feature Update for v2.x Users; features dependency updates, feature improvements, bug fixes, and Initial MC 1.21 Support"
   },
   "1.21": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -218,6 +229,7 @@
     "v2.4.0": "Major Feature Update for v2.x Users; features dependency updates, feature improvements, bug fixes, and Initial MC 1.21 Support"
   },
   "1.20.6": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -233,6 +245,7 @@
     "v2.3.9": "Quality-Of-Life Patches for v2.3.8 Users; featuring additional bug-fixes, UI Improvements, dependency updates, and polished support for MC 1.20.5"
   },
   "1.20.5": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -248,6 +261,7 @@
     "v2.3.9": "Quality-Of-Life Patches for v2.3.8 Users; featuring additional bug-fixes, UI Improvements, dependency updates, and polished support for MC 1.20.5"
   },
   "1.20.4": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -269,6 +283,7 @@
     "v2.2.5": "Maintainer Update for v2.x Users; features dependency updates, bug fixes for UI and Server issues, and minor API refactors"
   },
   "1.20.3": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -290,6 +305,7 @@
     "v2.2.5": "Maintainer Update for v2.x Users; features dependency updates, bug fixes for UI and Server issues, and minor API refactors"
   },
   "1.20.2": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -315,6 +331,7 @@
     "v2.2.1": "Initial MC 1.20.2 and NeoForge Support, also including various bug-fixes and Quality-Of-Life tweaks to UI and Scripting Functions within the mod"
   },
   "1.20.1": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -344,6 +361,7 @@
     "v2.0.7": "Day-One MC 1.20 Support, in addition to Fixes for Legacy MC Biome/Dimension Regressions and adjustments to Module, Placeholder, and Join Request Logic to resolve some flaws"
   },
   "1.20": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -374,6 +392,7 @@
     "v2.0.0": "Complete Rewrite + Overhaul, including dozens of Fixes, Enhancements, and Features for ALL Users (See GitLab, CurseForge, or Modrinth for Changelog)"
   },
   "1.19.4": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -405,6 +424,7 @@
     "v2.0.0": "Complete Rewrite + Overhaul, including dozens of Fixes, Enhancements, and Features for ALL Users (See GitLab, CurseForge, or Modrinth for Changelog)"
   },
   "1.19.3": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -438,6 +458,7 @@
     "v1.9.5": "Performance Improvements + Regression Fixes for GSON/JUnixSocket Dependency Issues for v1.9.3 and v1.9.4 Users"
   },
   "1.19.2": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -480,6 +501,7 @@
     "v1.8.9": "Maintainer Patches for 2022 + Fixes for Client IDs above 18 characters"
   },
   "1.19.1": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -508,6 +530,7 @@
     "v1.8.9": "Maintainer Patches for 2022 + Fixes for Client IDs above 18 characters"
   },
   "1.19": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -551,6 +574,7 @@
     "v1.8.8": "Hotfixes for Critical Issues in v1.8.7, and fixes for Legacy Compatibility down to MC 1.0.0"
   },
   "1.18.2": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -594,6 +618,7 @@
     "v1.8.8": "Hotfixes for Critical Issues in v1.8.7, and fixes for Legacy Compatibility down to MC 1.0.0"
   },
   "1.18.1": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -637,6 +662,7 @@
     "v1.8.8": "Hotfixes for Critical Issues in v1.8.7, and fixes for Legacy Compatibility down to MC 1.0.0"
   },
   "1.18": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -665,6 +691,7 @@
     "v1.8.8": "Hotfixes for Critical Issues in v1.8.7, and fixes for Legacy Compatibility down to MC 1.0.0"
   },
   "1.17.1": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -711,6 +738,7 @@
     "v1.8.2": "Minor Fixes and Backend Updates for v1.8.x users"
   },
   "1.17": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -740,6 +768,7 @@
     "v1.8.1": "Hotfixes for v1.8.0 users, involving regression fixes for Join Requests and metadata updates"
   },
   "1.16.5": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -789,6 +818,7 @@
     "v1.7.6": "Bug-Fix and Quality of Life Improvements from v1.7.5; Also contains multiple compatibility and stability adjustments"
   },
   "1.16.4": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -819,6 +849,7 @@
     "v1.7.2": "Further improvements and stabilizing patches for v1.7.x; v1.7.x pipeline now stable"
   },
   "1.16.3": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -873,6 +904,7 @@
     "v1.6.8": "Hotfix patches and Improvements for v1.6.6 Users, also making final preparations for the v1.7.0 Update and the final LTS Update for the v1.6.x Pipeline"
   },
   "1.16.2": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -904,6 +936,7 @@
     "v1.6.8": "Hotfix patches and Improvements for v1.6.6 Users, also making final preparations for the v1.7.0 Update and the final LTS Update for the v1.6.x Pipeline"
   },
   "1.16.1": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -933,6 +966,7 @@
     "v1.6.6": "Quality-Of-Life and Bug Fix LTS Upgrade for v1.6.x Users, designed to fix long-standing issues and make preparations towards the v1.7.0 Milestone Update for 5 Million Downloads"
   },
   "1.16": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -960,6 +994,7 @@
     "v2.1.2": "Minor Patches for v2.1.0, including fixes for Translation File Regressions and re-introducing support for several MC Versions as well as native Quilt Support"
   },
   "1.15.2": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -1018,6 +1053,7 @@
     "v1.6.0": "Major Feature Update improving several aspects of the Mod as well as major bug fixes"
   },
   "1.15.1": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -1047,6 +1083,7 @@
     "v1.6.0": "Major Feature Update improving several aspects of the Mod as well as major bug fixes"
   },
   "1.15": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -1076,6 +1113,7 @@
     "v1.6.0": "Major Feature Update improving several aspects of the Mod as well as major bug fixes"
   },
   "1.14.4": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -1136,6 +1174,7 @@
     "v1.5.5": "Feature Update for v1.5.x Users, including 1.14.x Support, and many new Config Options and Bug Fixes"
   },
   "1.14.3": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -1164,6 +1203,7 @@
     "v1.5.5": "Feature Update for v1.5.x Users, including 1.14.x Support, and many new Config Options and Bug Fixes"
   },
   "1.14.2": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -1192,6 +1232,7 @@
     "v1.5.5": "Feature Update for v1.5.x Users, including 1.14.x Support, and many new Config Options and Bug Fixes"
   },
   "1.14.1": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -1220,6 +1261,7 @@
     "v1.5.5": "Feature Update for v1.5.x Users, including 1.14.x Support, and many new Config Options and Bug Fixes"
   },
   "1.14": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -1248,6 +1290,7 @@
     "v1.5.3.1": "HotFixes for v1.5.3, also including a new Accessibilities GUI to customize Tooltip Colors and soon set Fallback Values"
   },
   "1.13.2": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -1314,6 +1357,7 @@
     "v1.4.9.8": "Minor Bug and Stability Fixes for v1.4.x Users"
   },
   "1.12.2": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -1386,6 +1430,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.11.2": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -1458,6 +1503,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.10.2": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -1530,6 +1576,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.9.4": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -1602,6 +1649,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.8.9": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -1674,6 +1722,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.7.10": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -1746,6 +1795,7 @@
     "v1.4.0": "This major update includes Numerous Bug Fixes, as well as an Overhauled Config System"
   },
   "1.6.4": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -1814,6 +1864,7 @@
     "v1.4.9": "Includes Bug Fixes and Join Requests and LAN Support"
   },
   "1.5.2": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -1877,6 +1928,7 @@
     "v1.5.2": "Major Bug-Fix Update for v1.5.x Users, also Including Java 1.6 Support, Better Compatibility between Versions, and Refactored Dimension and Per-GUI Systems"
   },
   "1.4.7": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -1940,6 +1992,7 @@
     "v1.5.2": "Major Bug-Fix Update for v1.5.x Users, also Including Java 1.6 Support, Better Compatibility between Versions, and Refactored Dimension and Per-GUI Systems"
   },
   "1.3.2": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -2003,6 +2056,7 @@
     "v1.5.2": "Major Bug-Fix Update for v1.5.x Users, also Including Java 1.6 Support, Better Compatibility between Versions, and Refactored Dimension and Per-GUI Systems"
   },
   "1.2.5": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -2065,6 +2119,7 @@
     "v1.5.3": "Bug-Fix and Quality of Life Update for v1.4.x and v1.5.x Users, including Performance Improvements and Better Legacy Compatibility"
   },
   "1.1": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -2127,6 +2182,7 @@
     "v1.5.3": "Bug-Fix and Quality of Life Update for v1.4.x and v1.5.x Users, including Performance Improvements and Better Legacy Compatibility"
   },
   "1.0": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -2170,6 +2226,7 @@
     "v1.8.8": "Hotfixes for Critical Issues in v1.8.7, and fixes for Legacy Compatibility down to MC 1.0.0"
   },
   "b1.8.1": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -2208,6 +2265,7 @@
     "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes"
   },
   "b1.7.3": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -2246,6 +2304,7 @@
     "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes"
   },
   "b1.6.6": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -2284,6 +2343,7 @@
     "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes"
   },
   "b1.5_01": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -2322,6 +2382,7 @@
     "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes"
   },
   "b1.4_01": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -2360,6 +2421,7 @@
     "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes"
   },
   "b1.3_01": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -2398,6 +2460,7 @@
     "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes"
   },
   "b1.2_02": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -2436,6 +2499,7 @@
     "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes"
   },
   "b1.1_02": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -2474,6 +2538,7 @@
     "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes"
   },
   "a1.2.6": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",
@@ -2512,6 +2577,7 @@
     "v1.9.0": "Added Dynamic RPC Icon Support, RPC Buttons Support, and multiple Quality-Of-Life Improvements for all users, in addition to long-standing issue fixes"
   },
   "a1.1.2_01": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",
     "v2.6.2": "(Required: UniLib v1.1.0+) Maintainer Update for v2.6.x Users; featuring dependency updates, bug-fixes for ReIndev, as well as the removal of native FlintMC support and merging Quilt ports with Fabric",
     "v2.6.1": "(Required: UniLib v1.1.0+) Hotfix Release for v2.6.0 Users; fixes an issue causing Scroll List Images to be unable to render",
     "v2.6.0": "(Required: UniLib v1.1.0+) Major Feature Update for v2.x Users; featuring dependency updates and several major fixes and changes for modules and placeholder usage",

@@ -1,6 +1,8 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/craftpresence/files",
   "promos": {
+    "1.21.11-latest": "v2.7.0",
+    "1.21.11-recommended": "v2.7.0",
     "1.21.10-latest": "v2.7.0",
     "1.21.10-recommended": "v2.7.0",
     "1.21.9-latest": "v2.7.0",
@@ -133,6 +135,9 @@
     "a1.2.6-recommended": "v2.7.0",
     "a1.1.2_01-latest": "v2.7.0",
     "a1.1.2_01-recommended": "v2.7.0"
+  },
+  "1.21.11": {
+    "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10"
   },
   "1.21.10": {
     "v2.7.0": "(Required: UniLib v1.2.0+) Major Update for v2.x Users; featuring dependency updates, bug-fixes for SimpleRPC/Modrinth Pack/Fabric API users, as well as minor translation changes due to MC 1.21.9/10",

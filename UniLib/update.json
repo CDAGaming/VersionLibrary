@@ -1,6 +1,10 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/unilib/files",
   "promos": {
+    "26.1.2-latest": "v1.2.1",
+    "26.1.2-recommended": "v1.2.1",
+    "26.1.1-latest": "v1.2.1",
+    "26.1.1-recommended": "v1.2.1",
     "26.1-latest": "v1.2.1",
     "26.1-recommended": "v1.2.1",
     "1.21.11-latest": "v1.2.1",
@@ -137,6 +141,12 @@
     "a1.2.6-recommended": "v1.2.1",
     "a1.1.2_01-latest": "v1.2.1",
     "a1.1.2_01-recommended": "v1.2.1"
+  },
+  "26.1.2": {
+    "v1.2.1": "Maintainer Update for v1.2.x users, featuring dependency updates"
+  },
+  "26.1.1": {
+    "v1.2.1": "Maintainer Update for v1.2.x users, featuring dependency updates"
   },
   "26.1": {
     "v1.2.1": "Maintainer Update for v1.2.x users, featuring dependency updates"

@@ -1,6 +1,10 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/craftpresence/files",
   "promos": {
+    "26.1.2-latest": "v2.7.1",
+    "26.1.2-recommended": "v2.7.1",
+    "26.1.1-latest": "v2.7.1",
+    "26.1.1-recommended": "v2.7.1",
     "26.1-latest": "v2.7.1",
     "26.1-recommended": "v2.7.1",
     "1.21.11-latest": "v2.7.1",
@@ -137,6 +141,12 @@
     "a1.2.6-recommended": "v2.7.1",
     "a1.1.2_01-latest": "v2.7.1",
     "a1.1.2_01-recommended": "v2.7.1"
+  },
+  "26.1.2": {
+    "v2.7.1": "(Required: UniLib v1.2.0+) Maintainer Update for v2.7.x Users; featuring dependency updates, bug-fixes for Discord API changes, as well as support for several new Rich Presence fields"
+  },
+  "26.1.1": {
+    "v2.7.1": "(Required: UniLib v1.2.0+) Maintainer Update for v2.7.x Users; featuring dependency updates, bug-fixes for Discord API changes, as well as support for several new Rich Presence fields"
   },
   "26.1": {
     "v2.7.1": "(Required: UniLib v1.2.0+) Maintainer Update for v2.7.x Users; featuring dependency updates, bug-fixes for Discord API changes, as well as support for several new Rich Presence fields"
